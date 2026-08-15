@@ -123,7 +123,8 @@ def harvest(quarters=(("2023-04-01", "2023-06-30"),
                 body = get(doc_url).content
             except requests.HTTPError:
                 continue
-            doc_id = f"edgar_{hit['cik']}_{hit['accession'].replace('-', '')}"
+            stem = re.sub(r"[^a-zA-Z0-9]+", "-", hit["filename"].rsplit(".", 1)[0]).strip("-")
+            doc_id = f"edgar_{hit['cik']}_{hit['accession'].replace('-', '')}_{stem}"
             fp = RAW / f"{doc_id}.html"
             fp.write_bytes(body)
             record = {**hit, "doc_id": doc_id, "url": doc_url,
