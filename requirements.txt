@@ -1,0 +1,39 @@
+# scraping
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.3.0
+scrapy==2.11.2
+
+# documents
+pdfplumber==0.11.4
+pypdf==5.1.0
+reportlab==4.2.5
+faker==30.8.2
+
+# data
+pandas==2.2.3
+numpy==1.26.4
+scipy==1.13.1   # pin below 1.15: newer scipy removes _lazywhere, breaks statsmodels 0.14.4 / pmdarima
+python-dateutil==2.9.0.post0
+rapidfuzz==3.10.1
+pydantic==2.9.2
+python-dotenv==1.0.1
+
+# ml / nlp
+transformers==4.46.2
+torch==2.5.1
+scikit-learn==1.5.2
+
+# forecasting
+statsmodels==0.14.4
+pmdarima==2.0.4
+prophet==1.1.6
+
+# app + tests
+streamlit==1.40.1
+plotly==5.24.1
+pytest==8.3.3
+pytest-cov==6.0.0
+
+# llm
+anthropic==0.39.0
