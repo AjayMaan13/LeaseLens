@@ -1,0 +1,101 @@
+EX-10.1
+2
+phasei_leaseterminationagr.htm
+EX-10.1
+Document
+Exhibit 10.1.3
+EXECUTION VERSION
+LEASE TERMINATION AGREEMENT
+(Myriad Genetics: Phase I)
+THIS LEASE TERMINATION AGREEMENT (this “
+Agreement
+”) is entered into as of the 18th day of December, 2023 (the “
+Effective Date
+”) by and between HCPI/UTAH II, LLC, a Delaware limited liability company (“
+Landlord
+”) and MYRIAD GENETICS, INC., a Delaware corporation (“
+Tenant
+”) (each a “
+Party
+” and collectively the “
+Parties
+”), with reference to the following recitals:
+RECITALS
+A.    Landlord, as successor in interest to Boyer-Foothill Associates, Ltd., successor in interest to Boyer Research Park Associates V, and Tenant, are Parties to that certain Lease Agreement dated October 12, 1995, as amended by that certain Amendment to Lease Agreement dated March 29, 1996, as amended by that certain Amendment No. 2 to Lease Agreement dated December 18, 1997, as amended by that certain Third Amendment to Lease Agreement dated April 30, 2001, as amended by that certain Fourth Amendment to Lease Agreement dated August 17, 2001 (incorrectly referenced as August 7, 2001 in the Sixth Amendment), as amended by that certain Fifth Amendment to Lease Agreement dated November 1, 2006, and as further amended by that certain Sixth Amendment to Lease dated February 3, 2016 (the “
+Sixth Amendment
+”), and as affected by that certain Waiver of Existing Purchase Rights and Agreement re New Right of First Refusal (the “
+ROFR Agreement
+”) (collectively, the “
+Lease
+”), with respect to certain premises containing approximately 48,483 rentable square feet (the “
+Leased Premises
+”) located at 320 Wakara Way, Salt Lake City, Utah, and commonly known as the Phase I building of The Myriad Campus Research Park.
+B.    Landlord and Tenant have mutually agreed to terminate Tenant’s right to occupy the Leased Premises effective as of December 31, 2025 (the “
+Termination Date
+”), and Landlord has agreed to terminate the Lease for all purposes in accordance with the terms and conditions set forth in this Agreement.
+AGREEMENT
+NOW, THEREFORE, in consideration of the foregoing Recitals, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereto agree as follows:
+1.
+Definitions
+.  Capitalized terms used in this Agreement shall have the same meaning ascribed to such capitalized terms in the Lease, unless otherwise provided for herein.
+2.
+Termination; Release
+.  Each Party hereby agrees that the Lease shall terminate on the Termination Date subject to the terms and conditions of this Agreement, including, without limitation, Section 3 below.  Each Party covenants and agrees that until the Termination Date such Party shall faithfully perform and observe all of its respective obligations under the Lease as amended hereby.  After the Termination Date, neither Party shall have any further rights, obligations, responsibilities or liabilities to the other under the Lease.  Each Party, on their own behalf and on behalf of their principals, officers, directors, managers, shareholders, owners, members, partners, agents, representatives, subsidiaries, parent entities, assigns, heirs, successors, affiliated or associated entities of whatever kind, and any entity owned or controlled by a them, (hereinafter collectively the “
+Releasor
+”), generally release and forever discharge the other Party from any and all claims, liens, demands, and causes of action, of whatever kind or character, whether in law or in equity, that Releasor now has or may have in the future, whether known or unknown, based on any events that have occurred prior to the Effective Date of this Agreement, including but not limited to the claims which have been or could have been asserted arising out of or connected in any way with, the Lease; except claims for breach of this Agreement, which claims are expressly excluded from this release and shall survive and remain in effect after the date hereof.
+3.
+Contingency
+. Landlord and Tenant acknowledge and agree that this Agreement is contingent upon the execution of an agreement by and between Landlord and University of Utah Research Foundation, a Utah non-profit corporation, or its affiliates or assigns (the “
+Replacement Tenant
+”) whereby Landlord will agree to lease and/or sell to the Replacement Tenant and the Replacement Tenant will agree to lease and/or buy from Landlord the Leased Premises.  In the event Landlord and the Replacement Tenant fail to execute such an agreement or such agreement is no longer in effect on or before the date that is 180 days prior to the Termination Date, this Agreement shall be null and void.
+4.
+December 2025 Payment
+. Simultaneously with, and in addition to, Tenant’s payment to Landlord of December 2025 Rent, Tenant hereby agrees to pay Landlord prorated Rent (including Basic Annual Rent and Additional Rent) for the fifteen (15) days from January 1, 2026 through January 15, 2026.
+5.
+Surrender
+.  On or before the Termination Date, Tenant shall (i) surrender the Leased Premises to Landlord in broom-clean condition and clean and decommission all interior surfaces and exposed piping, supply lines, waste lines, plumbing, and exhaust or other ductwork in or serving the laboratory and laboratory support areas of the Leased Premises, in each case that has carried, released or otherwise been exposed to hazardous materials during the term of the Lease and shall have prepared a report or caused a report to be prepared (an “
+Environmental Assessment
+”) addressed to Landlord by a reputable licensed environmental engineer or industrial hygienist (the “
+Environmental Inspector
+”) that is mutually designated by Tenant and Landlord, which report shall be based on the Environmental Inspector’s inspection of the Leased Premises and shall state, to Landlord’s reasonable satisfaction, that  (a) all hazardous materials, if any, existing prior to such decommissioning, have been removed in accordance with applicable laws, including from the interior surfaces of the Leased Premises (including floors, walls, shelves, cabinets, drawers, fume hoods, and counters) and exposed piping, supply lines, waste lines,  plumbing, and exhaust or other ductwork in the laboratory and laboratory support areas of the Leased Premises; and (b) the Leased Premises may be reoccupied for office, research and development, and/or laboratory uses, demolished or renovated without incurring Special Costs or undertaking Special Procedures (as such terms are defined below) for disposal, investigation, assessment, cleaning or removal of hazardous materials and without giving notice required by applicable law in connection therewith. Further, for purposes of clauses (a) and (b), “
+Special Costs
+” or “
+Special Procedures
+” shall mean costs or procedures, as the case may be, that would not be incurred but for the nature of the hazardous materials as hazardous materials instead of non-hazardous materials. The report shall also include reasonable detail concerning the clean-up measures taken, the clean-up locations, the tests run and the analytic results; (ii) remove all personal property and trade fixtures, and (iii) return to Landlord all pass keys, entry keys and other items used to access or operate the Leased Premises (the “
+Surrender Conditions
+”). No later than 120 days prior to the Termination Date, representatives of Landlord and Tenant shall walk through the Leased Premises for purposes of Landlord evaluating whether the Surrender Conditions have been satisfied and Landlord shall promptly provide notice to Tenant of any unsatisfied Surrender Conditions. Subject to the foregoing, if Tenant fails to surrender the Leased Premises on or before the Termination Date, such failure shall constitute a hold over subject to the terms and conditions of the Lease and Landlord shall have the rights and remedies available to Landlord under the Lease.
+6.
+Default
+.  If either Party fails to perform any obligation required of it under this Agreement (except for the failure to perform the obligations set forth in the second sentence of Section 2, which failure shall be governed by the Lease and subject to any applicable cure periods therein), such failure shall be deemed an incurable default under the Lease and the Lease may be immediately terminated by the non-breaching Party without need for additional notice or grace period or any other action by the Parties and, without limiting any rights or remedies available to each Party under this Agreement, at law or in equity, the non-defaulting Party shall be entitled to all rights and remedies available to it under the Lease.  The defaulting Party shall indemnify the non-defaulting Party for any loss, cost, damage or expense (including reasonable attorneys’ fees) that may be incurred by the non-defaulting Party as a direct result of any breach of this Agreement or any loan secured by the Leased Premises, by the defaulting Party.
+7.
+Status of Lease
+.  Tenant represents and warrants to Landlord that as of the date of Tenant’s execution of this Agreement Landlord is not in default in the performance of any of its obligations under the Lease and Tenant is unaware of any condition or circumstance which, with the giving of notice or the passage of time or both, would constitute a default by Landlord. Landlord represents and warrants to Tenant that as of the date of Landlord’s execution of this Agreement Tenant is not in default in the performance of any of its obligations under the Lease and Landlord is unaware of any condition or circumstance which, with the giving of notice or the passage of time or both, would constitute a default by Tenant.
+8.
+Waiver of Purchase Rights
+.  Tenant on its own behalf and on behalf of its principals, officers, directors, managers, shareholders, owners, members, partners, agents, representatives, subsidiaries, parent entities, assigns, heirs, successors, affiliated or associated entities of whatever kind, and any entity owned or controlled by them hereby irrevocably waives, terminates, releases and relinquishes any rights to purchase the Leased Premises or any portion of the property of which the Leased Premises is a part, including, without limitation, the ROFR Agreement, or any other right of first offer or right of first refusal with respect to the Leased Premises or such property.
+2
+9.
+Multiple Counterparts
+.  This Agreement may be executed in multiple counterparts, all of which, when taken together, shall constitute one and the same instrument.  Any signature to this Agreement transmitted via facsimile or other electronic signature shall be deemed an original signature and be binding upon the Parties hereto (it being agreed that facsimile or other electronic signature, including DocuSign, shall have the same force and effect as an original signature). Submission of this instrument for examination or signature by Tenant does not constitute a reservation of or option to terminate the Lease and it is not effective as an agreement to terminate the Lease until execution by and delivery to both Landlord and Tenant.
+10.
+Authority
+.  Each Party hereby represents and warrants that (a) such Party has the legal power and authority to execute and deliver this Agreement; (b) the person executing this Agreement has been duly authorized to execute and deliver the same and bind such Party with respect to the provisions hereof; (c) this Agreement constitutes a valid and binding obligation in every respect; and (d) no consent of any third Party is required to be obtained in order to enter into this Agreement or to perform its obligations hereunder, except any such consent as has been duly obtained and is in full force and effect.
+[Signature page follows]
+3
+IN WITNESS WHEREOF, each Party hereto has caused their duly authorized representatives to execute this Agreement as of the date first above written.
+LANDLORD:
+HCPI/UTAH II, LLC,
+a Delaware limited liability company
+By:
+/s/ Michael Dorris
+Name: Michael Dorris
+Title: Senior Vice President
+TENANT:
+MYRIAD GENETICS, INC.,
+a Delaware corporation
+By:
+/s/ R. Bryan Riggsbee
+Name: R. Bryan Riggsbee
+Title: CFO
+[Signature page to Lease Termination Agreement (Myriad Genetics: Phase I)]
+[Signature page to Lease Termination Agreement (Myriad Genetics: Phase I)]

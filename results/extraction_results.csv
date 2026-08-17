@@ -1,0 +1,4 @@
+system,micro_p,micro_r,micro_f1,macro_p,macro_r,macro_f1,n_gold
+regex_baseline,0.458,0.237,0.313,0.27,0.237,0.247,40
+ner_hybrid,0.284,0.103,0.151,0.086,0.094,0.089,40
+llm_structured,0.837,0.772,0.803,0.829,0.766,0.795,40

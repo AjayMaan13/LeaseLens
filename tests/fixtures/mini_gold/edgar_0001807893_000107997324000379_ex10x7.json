@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001807893_000107997324000379_ex10x7",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-FL",
+    "urbanicity": "suburban",
+    "scanned": false,
+    "doc_chars": 20123
+  },
+  "notes": "Full original Commercial Lease Agreement, two condo suites. base_rent_amount is the explicit monthly installment figure ($7,048.80); document also states the equivalent annual figure ($84,585.60), consistent. premises_area_sqft not given as a number in reviewed text (only suite identifiers), left null.",
+  "fields": {
+    "landlord_name": "Marlenko Acquisitions, LLC",
+    "tenant_name": "Standard Premium Finance Management Corporation",
+    "property_address": "13590 SW 134 Avenue, Suites 213 and 214, Miami, Florida 33186",
+    "property_type": "commercial",
+    "premises_area_sqft": null,
+    "lease_start_date": "2024-03-01",
+    "lease_end_date": "2026-02-28",
+    "term_length_months": 24,
+    "base_rent_amount": 7048.8,
+    "rent_frequency": "monthly"
+  }
+}

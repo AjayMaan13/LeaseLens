@@ -1,0 +1,471 @@
+EX-10.19
+3
+sanjoseleaseamendmentex1019.htm
+THIRD AMENDMENT TO LEASE AGREEMENT
+Document
+THIRD AMENDMENT
+THIS THIRD AMENDMENT
+(this “
+Amendment
+”) is made and entered into as of January 31, 2024, by and between
+HUDSON CONCOURSE, LLC, a Delaware Limited Liability Company
+(“
+Landlord
+”), and
+PIXELWORKS, INC., an Oregon corporation
+(“
+Tenant
+”).
+RECITALS
+A.
+Landlord (as successor in interest to CA-The Concourse Limited Partnership, a Delaware limited partnership) and Tenant are parties to that certain Office Lease dated December 28, 2005, as amended by that certain First Amendment (“
+First Amendment
+”) dated April 16, 2013 and that certain Second Amendment (“
+Second Amendment
+”) dated July 25, 2018 (as amended, the “
+Lease
+”).  Pursuant to the Lease, Landlord has leased to Tenant space currently containing approximately
+10,051
+rentable square feet (for purposes of this Amendment, the “
+Existing Premises
+”) described as Suite 595 on the fifth floor of the building commonly known as Concourse I located at 226 Airport Parkway, San Jose, California (the “
+Building
+”).
+B.
+The Lease will expire by its terms on September 30, 2024 (the “
+Second Extended Expiration Date
+”).  Except as provided in
+Recital C
+below, the parties wish to extend the term of the Lease on the following terms and conditions.
+C.    Other than with respect to the portion of the Existing Premises containing approximately 4,189 rentable square feet described as Suite 595 on the fifth floor of the Building and shown on
+Exhibit A
+attached hereto (for purposes of this Amendment, the “
+Reduction Space
+”), the parties wish to extend the expiration date of the Lease on the following terms and conditions.
+NOW, THEREFORE
+, in consideration of the above recitals which by this reference are incorporated herein, the mutual covenants and conditions contained herein and other valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Landlord and Tenant agree as follows:
+1.
+Extension
+.
+Except as provided in
+Section 2
+below, the term of the Lease is hereby extended through February 29, 2028
+(the “
+Third
+Extended Expiration Date
+”).  The portion of the term of the Lease beginning on the date immediately following the Second Extended Expiration Date (the “
+Third
+Extension Date
+”) and ending on the Third Extended Expiration Date shall be referred to herein as the “
+Third
+Extended Term
+”.
+2.
+Reduction.
+2.1.
+Reduction Space Expiration Date.
+Subject to the terms hereof, the term of the Lease shall expire, with respect to the Reduction Space only, on Second Extended Expiration Date (for purposes of this Amendment, the “
+Reduction
+”).  Without limiting the foregoing:
+A.
+From and after the date immediately following the Second Extended Expiration Date (for purposes of this Amendment, the “
+Reduction Effective Date
+”), the Premises shall consist solely of the Existing Premises less the Reduction Space (for purposes of this Amendment, the “
+Remaining Premises
+”) and shall be deemed to contain
+5,862
+rentable square feet.
+B.
+Tenant shall surrender the Reduction Space to Landlord in accordance with the terms of the Lease on or before the Second Extended Expiration Date.
+C.
+Tenant shall remain liable for all Rent and other amounts payable under the Lease with respect to the Reduction Space for the period up to and including the Second Extended Expiration Date, even though billings for such amounts may occur after the Second Extended Expiration Date.
+D.
+Tenant’s restoration obligations with respect to the Reduction Space shall be as set forth in the Lease, as amended.
+E.
+If Tenant fails to surrender any portion of the Reduction Space on or before the Second Extended Expiration Date, Tenant’s tenancy with respect to the Reduction Space shall be subject to Section 22 of the Lease.
+F.
+Any other rights or obligations of Landlord or Tenant under the Lease relating to the Reduction Space that, in the absence of the Reduction, would have survived the Second Extended Expiration Date shall survive the Second Extended Expiration Date.
+1
+Matter ID: AR120723.1
+Pixelworks-3A
+3.
+Base Rent
+.
+With respect to the Remaining Premises during the Third Extended Term, the schedule of Base Rent shall be as follows:
+Period of Third Extended Term
+Annual Rate Per Square Foot (rounded to the nearest 100
+th
+of a dollar)
+Monthly Base Rent
+10/1/24 - 9/30/25
+$46.20
+$22,568.70
+10/1/25 - 9/30/26
+$47.59
+$23,245.76
+10/1/26 - 9/30/27
+$49.01
+$23,943.13
+10/1/27 – 2/29/28
+$50.48
+$24,661.43
+All such Base Rent shall be payable by Tenant in accordance with the terms of the Lease, as amended.
+Notwithstanding the foregoing, Base Rent for the Remaining Premises shall be abated, in the following amounts; provided, however, that if a Default exists when any such abatement would otherwise apply, such abatement shall be deferred until the date, if any, on which such Default is cured;
+(i)
+$22,568.70 per month for the each of the following full calendar months of October 2024, January 2025 and February 2025;
+(ii)
+$23,943.13 for the full calendar month of October 2026; and
+(iii)
+$24,661.43 for the full calendar month of November 2027.
+4.
+Additional Security Deposit.
+4.1.
+No additional Security Deposit shall be required in connection with this Amendment.
+4.2.
+Due to a scrivener’s error, the reference to “$80,000.00 in Section 5 of the First Amendment is hereby amended and restated as “$79,999.80”.
+4.3.
+Effective as of date hereof, and so long as Tenant is not in Default, the Security Deposit held by Landlord as provided under Sections 1.08 and 6 of the Lease shall be reduced from $79,999.80 to $24,661.43 (for purposes of this Amendment, the “
+Deposit Reduction
+”) and Landlord shall deliver the amount of $55,338.37 to Tenant within 30 days of the date hereof.
+5.
+Tenant’s Pro Rata Share
+.
+With respect to the Remaining Premises during the Extended Term, Tenant’s Pro Rata Share shall be 4.5029%.
+6.
+Expenses and Taxes
+.
+With respect to the Remaining Premises during the Third Extended Term, Tenant shall pay for Tenant’s Pro Rata Share of Expenses and Taxes in accordance with the terms of the Lease; provided, however, that, with respect to the Remaining Premises during the Third Extended Term the Base Year for Expenses and Taxes shall be 2025.
+7.
+Improvements to Remaining Premises
+.
+7.1.
+Configuration and Condition of Remaining Premises.
+Tenant acknowledges that it is in possession of the Remaining Premises and agrees to accept them “as is” without any representation by Landlord regarding their configuration or condition and without any obligation on the part of Landlord to perform or pay for any alteration or improvement, except as may be otherwise expressly provided in this Amendment.
+7.2.
+Responsibility for Improvements to Remaining Premises.
+Landlord shall perform improvements to the Remaining Premises in accordance with the Third Extension Work Letter attached hereto as
+Exhibit B
+.
+8.
+Representations
+.
+Tenant represents and warrants that, as of the date hereof and the Second Extended Expiration Date:  (a) Tenant is the rightful owner of all of the Tenant’s interest in the Lease; (b) Tenant has not subleased the Reduction Space or made any disposition, assignment or conveyance of the Lease or Tenant’s interest therein; (c) Tenant has no knowledge of any fact or circumstance which would give rise to any claim, demand, obligation, liability, action or cause of action arising out of or in connection with Tenant’s occupancy of the Reduction Space; (d) no other person or entity has an interest in the Lease, collateral or otherwise; and (e) there are no outstanding contracts for the supply of labor or material and no work has been done or is being done in, to or about the Reduction Space which has not been fully paid for and for which appropriate waivers of mechanic’s liens have not been obtained.
+9.
+Other Pertinent Provisions
+.
+Landlord and Tenant agree that, effective as of the date of this Amendment (unless different effective date(s) is/are specifically referenced in this Section), the Lease shall be amended in the following additional respects:
+9.1.
+Permitted Use
+.  Section 1.11 of the Lease is hereby amended and restated as the following:
+2
+Matter ID: AR120723.1
+Pixelworks-3A
+“1.11    ‘
+Permitted Use
+’:  General office use, including, without limitation, (a) software related engineering, design, and product testing, (b) semiconductor related engineering and design, and (c) building, assembling, and physically constructing products related thereto; provided, however, that no more than 20% of the Premises (measured against the total Rentable Square Footage of the Premises) shall be used for building, assembling, and/or physically constructing any products and that Tenant shall neither use, nor permit (pursuant to a sublease or otherwise) any other party to use, any portion of the Premises for a retail bank.”
+9.2.
+Landlord’s Notice Address
+.  The Landlord’s Notice Address set forth in Section 1.12 of the Lease (as further amended) is hereby deleted in its entirety and is replaced with the following:
+“Hudson Concourse, LLC,
+c/o Hudson Pacific Properties
+2055 Gateway Place, Suite 200
+San Jose, California  95110
+Attn:  Building Manager
+with copies to
+:
+Hudson Concourse, LLC,
+c/o Hudson Pacific Properties
+333 Twin Dolphin Drive, Suite 100
+Redwood City, California  94065
+Attn:  Managing Counsel
+and
+Hudson Concourse, LLC,
+c/o Hudson Pacific Properties
+11601 Wilshire Boulevard, Suite 900
+Los Angeles, California 90025
+Attn:  Lease Administration”
+Notwithstanding anything to the contrary contained in the Lease, as amended hereby, Rent shall be made payable to the entity, and sent to the address, Landlord designates and shall be made by good and sufficient check or by other means acceptable to Landlord.
+9.3.
+Parking
+.  Effective as of the Reduction Effective Date, Section 1 of Exhibit G to the Lease (as was further amended by Section 9.1 of the First Amendment and Section 8.7 of the Second Amendment) is hereby amended and restated as the following shall be deemed amended and restated as “17 non-reserved parking spaces”
+9.5.
+Demising Wall
+.  Tenant acknowledges that there is currently no demising wall between the Remaining Premises and the Reduction Space; provided, however that Tenant agrees that Tenant shall have no right to use or occupy (nor permit others to use or occupy) any portion of the Reduction Space from and after the Second Extended Expiration Date.    Tenant specifically agrees that its release, waiver, indemnity and insurance obligations set forth in the Lease shall apply to the Reduction Space (as if it were a portion of the Premises) with respect to that period of time (1) commencing on the Reduction Effective Date, and (2) ending on the date a demising wall is constructed to separate the Remaining Premises from the Reduction Space (as more particularly described in
+Section 2.1
+hereof and
+Exhibit B
+hereto).  Effective immediately upon Tenant or any of its agents, employees, contractors, officers, directors, shareholders, visitors, invitees, or customers entering the Reduction Space after the Second Extended Expiration Date for any reason whatsoever or placing any personal property therein, then without limiting any of Landlord’s other rights, Landlord shall be entitled, at Landlord’s option, (a) to receive from Tenant, on a go-forward basis, Base Rent on the entire Reduction Space in an amount equal to the then applicable per rentable square foot amount payable per month with respect to the Remaining Premises and/or (b) to declare an immediate Default under the terms of the Lease (as amended).
+9.6.
+Exposure to Pathogens; Release and Waiver
+.  Tenant hereby acknowledges and agrees that (a) there is a risk of exposure to pathogens (including, without limitation, the novel coronavirus SARS-CoV-2 and mutations, adaptations or variations thereof) (collectively, ("
+Contagions
+"))  everywhere people are present, including at the Property; (b) no precautions, including those implemented by Landlord and/or third parties (e.g., the CDC and applicable governmental agencies), can entirely eliminate the risk of exposure to Contagions and (c) a governmental restriction of the use and/or occupancy of the Premises in an effort to address the potential or the actual presence of Contagions shall not be deemed a Casualty pursuant to
+Section 16
+of the Lease nor a Taking pursuant to
+Section 17
+of the Lease.  Accordingly, by entering into the Property, Tenant and all Tenant Related Parties knowingly and voluntarily assume the risk of exposure to Contagions.  Tenant, on behalf of itself and, to the fullest extent permitted by applicable Law, the Tenant Related Parties, hereby waives all Losses against the Landlord and any other Landlord Related Party arising out of or in connection with exposure to Contagions at the Property, including, without limitation any damages due to illness, short- or long-
+3
+Matter ID: AR120723.1
+Pixelworks-3A
+term adverse health effects, disability and/or death (the "
+Released Claims
+").  With regard to the Released Claims, Tenant expressly waives the provisions of California Civil Code Section 1542, which provides:
+A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY.
+Tenant acknowledges that it has received the advice of legal counsel with respect to the aforementioned waiver and understands the terms thereof.
+10.
+Fourth Extension Option
+.
+10.1.
+Grant of Option; Conditions.
+Tenant shall have the right (the “
+Fourth Extension Option
+”) to extend the term of the Lease for one (1) additional period of two (2) years beginning on the day immediately following the Third Extended Expiration Date and ending on the second anniversary of such expiration date (the “
+Fourth Extension Term
+”), if:
+(a)    not less than 9 and not more than 12 full calendar months before Third Extended Expiration Date, Tenant delivers written notice to Landlord (for purposes of this
+Section 10
+, the “
+Extension Notice
+”) electing to exercise the Fourth Extension Option;
+(b)    no Default exists
+when Tenant delivers the Extension Notice;
+(c)    no part of the Premises is sublet (other than to an Affiliate of Tenant) when Tenant delivers the Extension Notice; and
+(d)    the Lease, as amended, has not been assigned (other than pursuant to a Permitted Transfer) before Tenant delivers the Extension Notice.
+10.2.
+Terms Applicable to Fourth Extension Term.
+A.    During the Fourth Extension Term, (a) the Base Rent rate per rentable square foot shall be equal to the Prevailing Market rate per rentable square foot; (b) Base Rent shall increase, if at all, in accordance with the increases assumed in the determination of Prevailing Market rate; and (c) Base Rent shall be payable in monthly installments in accordance with the terms and conditions of the Lease, as amended.
+B.    During the Fourth Extension Term Tenant shall pay Tenant’s Pro Rata Share of Expenses and Taxes for the Premises in accordance with the Lease, as amended.
+10.3.
+Procedure for Determining Prevailing Market.
+A.
+Initial Procedure
+.  Within 30 days after receiving the Extension Notice, Landlord shall give Tenant written notice of Landlord’s estimate of the Prevailing Market rate for the Fourth Extension Term (for purposes of this
+Section 10
+, “
+Landlord’s Estimate
+”).  Within 30 days of receiving Landlord’s Estimate, Tenant shall give Landlord either (i) written notice (for purposes of this
+Section 10
+, “
+Tenant’s Binding
+Notice
+”) accepting Landlord’s Estimate, or (ii) written notice (for purposes of this
+Section 10
+, “
+Tenant’s Rejection Notice
+”) rejecting such estimate and stating Tenant’s estimate of the Prevailing Market rate for the Fourth Extension Term.  If Tenant gives Landlord a Tenant’s Rejection Notice, Landlord, within 15 days thereafter, shall give Tenant either (i) written notice (for purposes of this
+Section 10
+, “
+Landlord’s Binding
+Notice
+”) accepting Tenant’s estimate of the Prevailing Market rate for the Fourth Extension Term stated in Tenant’s Rejection Notice, or (ii) written notice (for purposes of this
+Section 10
+, “
+Landlord’s Rejection Notice
+”) rejecting such estimate.  If Landlord gives Tenant a Landlord’s Rejection Notice, Landlord and Tenant shall work together in good faith to agree in writing upon the Prevailing Market rate for the Fourth Extension Term.  If, within 30 days after delivery of a Landlord’s Rejection Notice, the parties fail to agree in writing upon the Prevailing Market rate, the provisions of
+Section 10.3.B
+below shall apply.
+B.
+Dispute Resolution Procedure
+.
+1.    If, within 30 days after delivery of a Landlord’s Rejection Notice, the parties fail to agree in writing upon the Prevailing Market rate, Landlord and Tenant, within five (5) days thereafter, shall each simultaneously submit to the other, in a sealed envelope, its good faith estimate of the Prevailing Market rate for the Fourth Extension Term (for purposes of
+4
+Matter ID: AR120723.1
+Pixelworks-3A
+this
+Section 10
+, collectively, the “
+Estimates
+”).  Within seven (7) days after the exchange of Estimates, Landlord and Tenant shall each select a broker or agent (for purposes of this
+Section 10
+, an “
+Agent
+”) to determine which of the two Estimates most closely reflects the Prevailing Market rate for the Fourth Extension Term.  Each Agent so selected shall be licensed as a real estate broker or agent and in good standing with the California Bureau of Real Estate Appraisers, and shall have had at least five (5) years’ experience within the previous 10 years as a commercial real estate broker or agent working in San Jose, California with working knowledge of current rental rates and leasing practices relating to buildings similar to the Building.
+2.    If each party selects an Agent in accordance with
+Section 10.3.B.1
+above, the parties shall cause their respective Agents to work together in good faith to agree upon which of the two Estimates most closely reflects the Prevailing Market rate for the Fourth Extension Term.  The Estimate, if any, so agreed upon by such Agents shall be final and binding on both parties as the Prevailing Market rate for the Fourth Extension Term and may be entered in a court of competent jurisdiction.  If the Agents fail to reach such agreement within 20 days after their selection, then, within 10 days after the expiration of such 20-day period, the parties shall instruct the Agents to select a third Agent meeting the above criteria (and if the Agents fail to agree upon such third Agent within 10 days after being so instructed, either party may cause a court of competent jurisdiction to select such third Agent).  Promptly upon selection of such third Agent, the parties shall instruct such Agent (or, if only one of the parties has selected an Agent within the 7-day period described above, then promptly after the expiration of such 7-day period the parties shall instruct such Agent) to determine, as soon as practicable but in any case within 14 days after his selection, which of the two Estimates most closely reflects the Prevailing Market rate.  Such determination by such Agent (for purposes of this
+Section 10
+, the “
+Final Agent
+”) shall be final and binding on both parties as the Prevailing Market rate for the Fourth Extension Term and may be entered in a court of competent jurisdiction.  If the Final Agent believes that expert advice would materially assist him, he may retain one or more qualified persons to provide such expert advice.  The parties shall share equally in the costs of the Final Agent and of any experts retained by the Final Agent.  Any fees of any other broker, agent, counsel or expert engaged by Landlord or Tenant shall be borne by the party retaining such broker, agent, counsel or expert.
+C.
+Adjustment
+.  If the Prevailing Market rate has not been determined by the commencement date of the Fourth Extension Term, Tenant shall pay Base Rent for the Fourth Extension Term upon the terms and conditions in effect during the last month ending on or before the expiration date of the Lease until such time as the Prevailing Market rate has been determined.  Upon such determination, the Base Rent for the Fourth Extension Term shall be retroactively adjusted.  If such adjustment results in an under- or overpayment of Base Rent by Tenant, Tenant shall pay Landlord the amount of such underpayment, or receive a credit in the amount of such overpayment, with or against the next Base Rent due under the Lease.
+10.4.
+Extension Amendment.
+If Tenant is entitled to and properly exercises its Fourth Extension Option, and if the Prevailing Market rate for the Fourth Extension Term is determined in accordance with
+Section 10.3
+above, Landlord, within a reasonable time thereafter, shall prepare and deliver to Tenant an amendment (for purposes of this
+Section 10
+, the “
+Extension Amendment
+”) reflecting changes in the Base Rent, the term of the Lease, the expiration date of the Lease, and other appropriate terms in accordance with this
+Section 10
+, and Tenant shall execute and return (or provide Landlord with reasonable objections to) the Extension Amendment within 15 days after receiving it.  Notwithstanding the foregoing, upon determination of the Prevailing Market rate for the Fourth Extension Term in accordance with
+Section 10.3
+above, an otherwise valid exercise of the Fourth Extension Option shall be fully effective whether or not the Extension Amendment is executed.
+10.5.
+Definition of Prevailing Market.
+For purposes of this Fourth Extension Option, “
+Prevailing Market
+” shall mean the arms-length, fair-market, annual rental rate per rentable square foot under extension and renewal leases and amendments entered into on or about the date on which the Prevailing Market is being determined hereunder for space comparable to the Premises in the Building and office buildings comparable to the Building in the San Jose, California area.  The determination of Prevailing Market shall take into account (i) any material economic differences between the terms of the Lease and any comparison lease or amendment, such as rent abatements, construction costs and other concessions, and the manner, if any, in which the landlord under any such lease is reimbursed for operating expenses and taxes; (ii) any material differences in configuration or condition between the Premises and any comparison space, including any cost that would have to be incurred in order to make the configuration or condition of the comparison space similar to that of the Premises; and (iii) any reasonably anticipated
+5
+Matter ID: AR120723.1
+Pixelworks-3A
+changes in the Prevailing Market rate from the time such Prevailing Market rate is being determined and the time such Prevailing Market rate will become effective under the Lease.
+10.6.    [Intentionally Omitted].
+12.
+Miscellaneous.
+12.1.    This Amendment and the attached exhibits, which are hereby incorporated into and made a part of this Amendment, set forth the entire agreement between the parties with respect to the matters set forth herein.  There have been no additional oral or written representations or agreements.  Tenant shall not be entitled, in connection with entering into this Amendment, to any free rent, allowance, alteration, improvement or similar economic incentive to which Tenant may have been entitled in connection with entering into the Lease, except as may be otherwise expressly provided in this Amendment.
+12.2.    Except as herein modified or amended, the provisions, conditions and terms of the Lease shall remain unchanged and in full force and effect.
+12.3.    In the case of any inconsistency between the provisions of the Lease and this Amendment, the provisions of this Amendment shall govern and control.
+12.4.    Submission of this Amendment by Landlord is not an offer to enter into this Amendment but rather is a solicitation for such an offer by Tenant.  Landlord shall not be bound by this Amendment until Landlord has executed and delivered it to Tenant.
+12.5.    Each party hereto, and their respective successors and assigns shall be authorized to rely upon the signatures of all of the parties hereto which are delivered by facsimile, PDF or DocuSign (or the like) as constituting a duly authorized, irrevocable, actual, current delivery hereof with original ink signatures of each person and entity.  This Amendment may be executed in counterparts, each of which shall be deemed an original part and all of which together shall constitute a single agreement.
+12.6.    Capitalized terms used but not defined in this Amendment shall have the meanings given in the Lease.
+12.7.    Tenant shall indemnify and hold Landlord, its trustees, members, principals, beneficiaries, partners, officers, directors, employees, mortgagee(s) and agents, and the respective principals and members of any such agents harmless from all claims of any brokers (other than Newmark ) claiming to have represented Tenant in connection with this Amendment.  Landlord shall indemnify and hold Tenant, its trustees, members, principals, beneficiaries, partners, officers, directors, employees, and agents, and the respective principals and members of any such agents harmless from all claims of any brokers claiming to have represented Landlord in connection with this Amendment.  Tenant acknowledges that any assistance rendered by any agent or employee of any affiliate of Landlord in connection with this Amendment has been made as an accommodation to Tenant solely in furtherance of consummating the transaction on behalf of Landlord, and not as agent for Tenant.
+[SIGNATURES ARE ON FOLLOWING PAGE]
+6
+Matter ID: AR120723.1
+Pixelworks-3A
+IN WITNESS WHEREOF
+, Landlord and Tenant have duly executed this Amendment as of the day and year first above written.
+LANDLORD:
+HUDSON CONCOURSE, LLC, a Delaware limited liability company
+By:    Hudson Pacific Properties, L.P.,
+a Maryland limited partnership,
+its sole member
+By:     Hudson Pacific Properties, Inc.,
+a Maryland corporation,
+its general partner
+By:
+/s/ Kenneth Young
+Name:
+Kenneth Young
+Title:
+Senior Vice President, Leasing
+TENANT:
+PIXELWORKS, INC., an Oregon corporation
+By:
+/s/ Haley Aman
+Name:
+Haley Aman
+Title:
+CFO
+7
+Matter ID: AR120723.1
+Pixelworks-3A
+EXHIBIT A
+OUTLINE AND LOCATION OF REDUCTION SPACE
+EXHIBIT B
+THIRD EXTENSION WORK LETTER
+As used in this
+Exhibit B
+(this “
+Third Extension Work Letter
+”), the following terms shall have the following meanings:
+(i)
+“
+Premises
+” means the Remaining Premises and the Reduction Space.
+(ii)
+For purposes of this
+Exhibit B
+, “
+Tenant Improvements
+” means all improvements to be constructed in the Premises pursuant to this Third Extension Work Letter;
+(iii)
+For purposes of this
+Exhibit B
+, “
+Tenant Improvement Work
+” means the construction of the Tenant Improvements, together with any related work (including demolition) that is necessary to construct the Tenant Improvements;
+(iv)
+“
+Agreement
+” means the Amendment of which this Third Extension Work Letter is a part.
+1
+COST OF TENANT IMPROVEMENT WORK.
+Except as provided in
+Section 2.7
+below, the Tenant Improvement Work shall be performed at Landlord’s expense.
+2
+WORK LIST.
+1.1
+Work List
+.
+Landlord shall perform improvements to the Premises in accordance with the following work list (for purposes of this
+Exhibit B
+,
+the “
+Work List
+”) using Building-standard methods, materials and finishes.
+WORK LIST
+ITEM
+1.
+Install a demising wall in the Premises per the Plans by HGA and dated October 12, 2023 (the “Plans”), attached hereto as
+Exhibit B-1
+.  Notwithstanding any provision herein to the contrary, the Plans shall include any alterations to the Existing Premises or the Building that, in the Landlord’s good faith judgement, are necessary to separate the Reduction Space from the Remaining Premises or the Reduction from causing any portion of the Reduction Space or the Remaining Premises to (a) lack reasonable access to multi-tenant corridors or the elevator lobby, (b) violate any Law, or (c) be unmarketable in any respect (for purposes of this
+Exhibit B
+, the “Demising Work”).
+2.
+Clean the carpet in the interior of the Premises.
+3.
+Touch-up painted where needed (as reasonably determined by Landlord) in the interior of the Premises.
+1.2
+[Intentionally Omitted]
+1.3
+[Intentionally Omitted]
+1.4
+[Intentionally Omitted]
+1.5
+[Intentionally Omitted]
+1.6
+[Intentionally Omitted]
+1.7
+Revisions to Work List
+.
+The Work List shall not be revised without Landlord’s agreement, which agreement may be withheld or conditioned in Landlord’s sole and absolute discretion.  If Tenant requests any revision to the Work List, Landlord shall provide Tenant with notice approving or disapproving such revision, and, if Landlord approves such revision, Landlord shall have such revision made and delivered to Tenant, together with notice of any resulting change in the cost of the Tenant Improvement Work, within 10 business days after the later of Landlord’s receipt of such request or the mutual execution and delivery of this Agreement if such revision is not material, and within such longer period of time as may be reasonably necessary (but not more than 15 business days after the later of such receipt or such execution and delivery) if such revision is material, whereupon Tenant, within one (1) business day, shall notify Landlord whether it desires to proceed with such revision.  If Landlord has begun performing the Tenant Improvement Work, then, in the absence of such authorization, Landlord shall have the option to continue such performance disregarding such revision.  Landlord shall not revise the Work List without Tenant’s consent, which shall not be unreasonably withheld or conditioned.  Tenant shall approve, or reasonably disapprove (and state, with reasonable specificity, its reasons for disapproving), any revision to the Work List within two (2) business days after receiving Landlord’s request for approval thereof.  Any change order affecting the Work List shall be deemed a revision to the Work List.  Tenant shall reimburse Landlord, immediately upon demand, for any increase in the total cost associated with the Tenant Improvement Work that results from any revision to the Work List requested by Tenant, including the cost of preparing such revision.
+1.8
+[Intentionally Omitted]
+3
+CONSTRUCTION.
+1.1
+Contractor
+.
+Landlord shall retain a contractor of its choice (for purposes of this
+Exhibit B
+,
+the “
+Contractor
+”) to perform the Tenant Improvement Work.  In addition, Landlord may select and/or approve of any subcontractors, mechanics and materialmen used in connection with the performance of the Tenant Improvement Work.
+1.2
+[Intentionally Omitted]
+1.3
+Permits
+.
+Landlord shall cause the Contractor to apply to the appropriate municipal authorities for, and obtain from such authorities, all permits necessary for the Contractor to complete the Tenant Improvement Work (for purposes of this
+Exhibit B
+,
+the “
+Permits
+”).
+1.4
+Construction
+1.1.1
+Performance of Tenant Improvement Work.
+Landlord shall cause the Contractor to perform the Tenant Improvement Work in accordance with the Work List.
+1.1.2
+Contractor’s Warranties.
+Tenant waives all claims against Landlord relating to any defects in the Tenant Improvements; provided, however, that if, within 30 days after substantial completion of the Tenant Improvement Work, Tenant provides notice to Landlord of any non-latent defect in the Tenant Improvements, or if, within 11 months after substantial completion of the Tenant Improvement Work, Tenant provides notice to Landlord of any latent defect in the Tenant Improvements, then Landlord shall promptly cause such defect to be corrected.
+4
+COMPLIANCE WITH LAW; SUITABILITY FOR TENANT’S USE.
+Landlord shall cause the Work List to comply with law.  Except as provided in the preceding sentence, Tenant shall be responsible for ensuring that the Work List is suitable for Tenant’s use of the Premises, and neither the preparation nor the approval of the Work List by Landlord or its consultants shall relieve Tenant from such responsibility.  Landlord may contest any alleged violation of law in good faith, including by seeking a waiver or deferment of compliance, asserting any defense allowed by law, and exercising any right of appeal (provided that, after completing such contest, Landlord makes any modification to the Work List or any alteration to the Premises that is necessary to comply with any final order or judgment).
+5
+COMPLETION.
+Tenant acknowledges and agrees that the Tenant Improvement Work may be performed during Building Service Hours before or after the Third Extension Date
+.
+Landlord and Tenant shall cooperate with each other in order to enable the Tenant Improvement Work to be performed in a timely manner and with as little inconvenience to the operation of Tenant’s business as is reasonably possible.  Notwithstanding any contrary provision of this Agreement, any delay in the completion of the Tenant Improvement Work or inconvenience suffered by Tenant during the performance of the Tenant Improvement Work shall not delay the Third Extension Date, nor shall it subject Landlord to any liability for any loss or damage resulting therefrom or entitle Tenant to any credit, abatement or adjustment of rent or other sums payable under the Lease.
+6
+MISCELLANEOUS.
+Notwithstanding any contrary provision of this Agreement, if Tenant Defaults under this Agreement before the Tenant Improvement Work is completed, Landlord’s obligations under this Third Extension Work Letter shall be excused until such Default is cured and Tenant shall be responsible for any resulting delay in the completion of the Tenant Improvement Work.  This Third Extension Work Letter shall not apply to any space other than the Premises.
+EXHIBIT B-1
+ADDITIONAL DESCRIPTION OF WORK LIST ITEMS

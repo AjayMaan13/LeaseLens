@@ -1,0 +1,122 @@
+{
+  "edgar_0001391135_000109690624000671_lsfp-ex1089": {
+    "landlord_name": null,
+    "tenant_name": null,
+    "property_address": null,
+    "property_type": "industrial",
+    "premises_area_sqft": 1421.0,
+    "lease_start_date": null,
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": 30000.0,
+    "rent_frequency": "annual"
+  },
+  "edgar_0001040161_000104016124000010_sanjoseleaseamendmentex1019": {
+    "landlord_name": null,
+    "tenant_name": null,
+    "property_address": null,
+    "property_type": "retail",
+    "premises_area_sqft": null,
+    "lease_start_date": "2005-12-28",
+    "lease_end_date": "2028-02-29",
+    "term_length_months": null,
+    "base_rent_amount": 24661.43,
+    "rent_frequency": "annual"
+  },
+  "edgar_0001453687_000145368724000036_exhibit1012leasebetween749": {
+    "landlord_name": null,
+    "tenant_name": null,
+    "property_address": null,
+    "property_type": null,
+    "premises_area_sqft": 19199.0,
+    "lease_start_date": "2024-02-29",
+    "lease_end_date": "2024-04-01",
+    "term_length_months": null,
+    "base_rent_amount": 89787.32,
+    "rent_frequency": "annual"
+  },
+  "edgar_0000879911_000121390023051014_ea180790ex10-1-applied": {
+    "landlord_name": null,
+    "tenant_name": null,
+    "property_address": null,
+    "property_type": null,
+    "premises_area_sqft": 25000.0,
+    "lease_start_date": "1994-08-05",
+    "lease_end_date": "2033-07-31",
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  },
+  "edgar_0000879911_000121390023051617_ea180931ex10-1-applied": {
+    "landlord_name": null,
+    "tenant_name": null,
+    "property_address": null,
+    "property_type": null,
+    "premises_area_sqft": null,
+    "lease_start_date": "2021-03-15",
+    "lease_end_date": "2028-07-31",
+    "term_length_months": null,
+    "base_rent_amount": 18270.97,
+    "rent_frequency": "monthly"
+  },
+  "edgar_0001807893_000107997324000379_ex10x7": {
+    "landlord_name": null,
+    "tenant_name": null,
+    "property_address": null,
+    "property_type": "commercial",
+    "premises_area_sqft": null,
+    "lease_start_date": "2024-03-01",
+    "lease_end_date": "2026-02-28",
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": "monthly"
+  },
+  "edgar_0000899923_000089992324000018_phasei-leaseterminationagr": {
+    "landlord_name": null,
+    "tenant_name": null,
+    "property_address": null,
+    "property_type": "industrial",
+    "premises_area_sqft": null,
+    "lease_start_date": "1995-10-12",
+    "lease_end_date": "2026-01-15",
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": "annual"
+  },
+  "edgar_0001450704_000168316822008581_vivakor-ex1001": {
+    "landlord_name": null,
+    "tenant_name": null,
+    "property_address": null,
+    "property_type": "industrial",
+    "premises_area_sqft": null,
+    "lease_start_date": null,
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": 14560.8,
+    "rent_frequency": "monthly"
+  },
+  "edgar_0001823239_000182323924000032_aex1017xflandersleaseamend": {
+    "landlord_name": null,
+    "tenant_name": null,
+    "property_address": null,
+    "property_type": null,
+    "premises_area_sqft": null,
+    "lease_start_date": "2021-08-06",
+    "lease_end_date": "2022-10-01",
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  },
+  "edgar_0001650164_000165016423000159_ex101toastleasetermination": {
+    "landlord_name": null,
+    "tenant_name": null,
+    "property_address": null,
+    "property_type": null,
+    "premises_area_sqft": null,
+    "lease_start_date": "2011-02-01",
+    "lease_end_date": "2029-12-31",
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": "monthly"
+  }
+}

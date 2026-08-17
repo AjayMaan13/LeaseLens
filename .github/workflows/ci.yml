@@ -1,0 +1,14 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install -r requirements-ci.txt
+      - name: Unit tests (normalizers, metric core)
+        run: pytest tests/test_metrics.py -v --cov=src --cov-report=term-missing
+      - name: Extraction quality regression gate
+        run: pytest tests/test_extraction_regression.py -v

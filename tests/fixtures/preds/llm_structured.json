@@ -1,0 +1,122 @@
+{
+  "edgar_0001391135_000109690624000671_lsfp-ex1089": {
+    "landlord_name": "CR Properties, LLC",
+    "tenant_name": "Lifted Liquids, Inc d/b/a Lifted Made",
+    "property_address": "789 Tech Center Drive, Unit C Durango, Colorado 81301",
+    "property_type": "industrial",
+    "premises_area_sqft": 2205.0,
+    "lease_start_date": "2024-03-01",
+    "lease_end_date": "2025-02-28",
+    "term_length_months": 12,
+    "base_rent_amount": 30000.0,
+    "rent_frequency": "annual"
+  },
+  "edgar_0001040161_000104016124000010_sanjoseleaseamendmentex1019": {
+    "landlord_name": "Hudson Concourse, LLC",
+    "tenant_name": "Pixelworks, Inc.",
+    "property_address": "226 Airport Parkway, San Jose, California",
+    "property_type": "commercial",
+    "premises_area_sqft": 5862.0,
+    "lease_start_date": "2024-10-01",
+    "lease_end_date": "2028-02-29",
+    "term_length_months": 41,
+    "base_rent_amount": 22568.7,
+    "rent_frequency": "monthly"
+  },
+  "edgar_0001453687_000145368724000036_exhibit1012leasebetween749": {
+    "landlord_name": "7495 RP, LLC",
+    "tenant_name": "Cartesian Therapeutics, Inc.",
+    "property_address": "7495 New Horizon Way, Frederick, Maryland 21702",
+    "property_type": "commercial",
+    "premises_area_sqft": 19199.0,
+    "lease_start_date": null,
+    "lease_end_date": null,
+    "term_length_months": 84,
+    "base_rent_amount": 902353.0,
+    "rent_frequency": "annual"
+  },
+  "edgar_0000879911_000121390023051014_ea180790ex10-1-applied": {
+    "landlord_name": "Arizona Board of Regents for and on behalf of the University of Arizona",
+    "tenant_name": "Campus Research Corporation",
+    "property_address": null,
+    "property_type": "other",
+    "premises_area_sqft": null,
+    "lease_start_date": "1994-08-05",
+    "lease_end_date": "2033-07-31",
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  },
+  "edgar_0000879911_000121390023051617_ea180931ex10-1-applied": {
+    "landlord_name": "Campus Research Corporation",
+    "tenant_name": "Applied Energetics, Inc.",
+    "property_address": null,
+    "property_type": "commercial",
+    "premises_area_sqft": null,
+    "lease_start_date": null,
+    "lease_end_date": "2028-07-31",
+    "term_length_months": null,
+    "base_rent_amount": 17825.33,
+    "rent_frequency": "monthly"
+  },
+  "edgar_0001807893_000107997324000379_ex10x7": {
+    "landlord_name": "Marlenko Acquisitions, LLC",
+    "tenant_name": "Standard Premium Finance Management Corporation",
+    "property_address": "13590 SW 134 Avenue, Miami, Florida 33186",
+    "property_type": "commercial",
+    "premises_area_sqft": null,
+    "lease_start_date": "2024-03-01",
+    "lease_end_date": "2026-02-28",
+    "term_length_months": 24,
+    "base_rent_amount": 84585.6,
+    "rent_frequency": "annual"
+  },
+  "edgar_0000899923_000089992324000018_phasei-leaseterminationagr": {
+    "landlord_name": "HCPI/UTAH II, LLC",
+    "tenant_name": "MYRIAD GENETICS, INC.",
+    "property_address": "320 Wakara Way, Salt Lake City, Utah",
+    "property_type": "commercial",
+    "premises_area_sqft": 48483.0,
+    "lease_start_date": "1995-10-12",
+    "lease_end_date": "2025-12-31",
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  },
+  "edgar_0001450704_000168316822008581_vivakor-ex1001": {
+    "landlord_name": "W & P Development Corporation",
+    "tenant_name": "VivaVentures Remediation Corp.",
+    "property_address": "18511 Beaumont Highway, Houston, Texas (W & P Industrial Park / The San Jacinto River & Rail Park), Harris County, Texas",
+    "property_type": "industrial",
+    "premises_area_sqft": null,
+    "lease_start_date": "2022-12-15",
+    "lease_end_date": "2033-06-14",
+    "term_length_months": 126,
+    "base_rent_amount": 11375.0,
+    "rent_frequency": "monthly"
+  },
+  "edgar_0001823239_000182323924000032_aex1017xflandersleaseamend": {
+    "landlord_name": "10240 Flanders Investors LLC",
+    "tenant_name": "TriLink BioTechnologies, LLC",
+    "property_address": "10240 Flanders Court and 10247 Flanders Court, San Diego, California",
+    "property_type": "commercial",
+    "premises_area_sqft": null,
+    "lease_start_date": null,
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  },
+  "edgar_0001650164_000165016423000159_ex101toastleasetermination": {
+    "landlord_name": "ARE-MA Region No. 88 Tenant, LLC",
+    "tenant_name": "Toast, Inc.",
+    "property_address": "401 Park Drive, Boston, Massachusetts",
+    "property_type": "commercial",
+    "premises_area_sqft": 133789.0,
+    "lease_start_date": "2015-06-12",
+    "lease_end_date": "2029-12-31",
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": "annual"
+  }
+}

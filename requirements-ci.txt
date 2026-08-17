@@ -1,0 +1,8 @@
+# Light dependency set for CI -- no torch, no prophet, no scrapy.
+# Keeps the regression gate fast (installs in seconds, not minutes) and
+# runs entirely offline against committed fixtures, no API key needed.
+pydantic==2.9.2
+python-dateutil==2.9.0.post0
+rapidfuzz==3.10.1
+pytest==8.3.3
+pytest-cov==6.0.0

@@ -84,7 +84,14 @@ def load_predictions(name):
 if __name__ == "__main__":
     gold = load_gold()
     preds = load_predictions("llm_structured")
+    all_rows = []
     for dim in ["property_type", "region_bucket", "urbanicity", "doc_length_bucket"]:
         df = slice_report(gold, preds, dim)
         print(f"\n=== {dim} ===")
         print(df.to_string(index=False))
+        all_rows.append(df)
+
+    out = pd.concat(all_rows, ignore_index=True)
+    RESULTS = pathlib.Path("results"); RESULTS.mkdir(exist_ok=True)
+    out.to_csv(RESULTS / "slice_results.csv", index=False)
+    print(f"\nWritten to {RESULTS / 'slice_results.csv'}")

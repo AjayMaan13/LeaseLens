@@ -1,0 +1,177 @@
+EX-10.1
+2
+ea180931ex10-1_applied.htm
+FIRST AMENDMENT TO LEASE AGREEMENT
+Exhibit 10.1
+FIRST
+AMENDMENT TO LEASE
+(CRC-Applied Energetics)
+THIS AMENDMENT is made as of
+June 7, 2023 by CAMPUS RESEARCH CORPORATION, an Arizona corporation (“Landlord”), and APPLIED ENERGETICS, INC., a Delaware corporation
+(“Tenant”), to the Lease Agreement between them dated March 15, 2021 (the “Lease”). Defined terms in the Lease mean
+the same in this Amendment unless otherwise stated.
+1.
+Term
+Extension.
+The Expiration Date is extended from April 26, 2026 to July 31, 2028, and Section 2 of the Lease is so modified.
+2.
+Extension
+Rent.
+Section 3.b of the Lease is modified to state that the Base Rent for the period from April 26, 2026 to July 31, 2028
+is:
+Rent Year
+Rent RSF
+Monthly
+Base Rent
+May 1, 2026 - April 30, 2027
+$
+16.00
+$
+17,825.33
+May 1, 2027 - July 31, 2028
+$
+16.40
+$
+18,270.97
+3.
+Expansion
+Space 1
+. Tenant agrees to lease Suite 1750 consisting of 8,375 usable square feet and 9,805 rentable square feet (1.1708 load
+factor) in Building 9070 (“Expansion Space 1” ).
+a.
+The term for Expansion Space 1 is August 1, 2023 to July 31, 2028.
+b.
+Base Rent for Expansion Space 1 is:
+Rent Year
+Rent RSF
+Monthly
+Base Rent
+August 1, 2023 - July 31, 2024
+$
+9.10
+$
+7,435.46
+August 1, 2024 - July 31, 2025
+$
+10.20
+$
+8,334.25
+August 1, 2025 - July 31, 2026
+$
+11.30
+$
+9,233.04
+August 1, 2026 - July 31, 2027
+$
+12.40
+$
+10,131.83
+August 1, 2027 - July 31, 2028
+$
+13.50
+$
+11,030.63
+C
+.
+Operating Costs described in Section 3.d. of the Lease apply
+to Expansion Space 1.
+4.
+Option
+for Expansion Space 2
+. Landlord grants Tenant the exclusive option to lease Suite 1250 consisting of 5,520 usable square feet
+and 6,458 rentable square feet (1.1700 load factor) in Building 9052 as follows:
+1
+a.
+The term of the option commences on August 1, 2023 and expires on February 1, 2024. Tenant may extend the term of the option from
+February 1, 2024 to July 31, 2024 by providing written notice to Landlord by November 30, 2023.
+b.
+The consideration for the option is $2,690.83 per month plus Operating Costs for Expansion Space 2 calculated in accordance with
+Section 3.d of the Lease, payable on August 1, 2023 and continuing on the first day of each calendar month during the term of the option.
+If Tenant fails to pay any sum of option consideration by the fifth day of a calendar month, then the option to lease Expansion Space
+2 will automatically terminate without notice or demand.
+c. Tenant may exercise
+the option to lease Expansion Space 2 at any time during the option by providing written notice to Landlord specifying the date when
+Tenant will occupy Expansion Space 2, which must be within 45 days of the notice of exercise. If Tenant’s stated occupancy
+date is other than the first day of a calendar month, Base Rent will be pro-rated in that month between Base Rent and option
+consideration. Base Rent applicable to the date specified in Tenant’s notice of option exercise is set forth in the rent
+schedule in Section 4.e below.
+d.
+The lease term for Expansion Space 2 shall begin on the date specified in a notice properly given by Tenant to Landlord in accordance
+with Section 4.c of this Amendment and continue through July 31, 2028.
+e. Base Rent for Expansion Space 2 is:
+Rent Year
+RentRSF
+Monthly Base Rent
+August 1, 2023 - July 31, 2024*
+$
+9.00
+$
+4,843.50
+*
+August 1, 2024 - July 31, 2025
+$
+9.75
+$
+5,247.13
+August 1, 2025 - July 31, 2026
+$
+10.50
+$
+5,650.75
+August 1, 2026 - July 31, 2027
+$
+11.25
+$
+6,054.38
+August 1, 2027 - July 31, 2028
+$
+12.00
+$
+6,458.00
+*
+Rent for Expansion Space 2 is payable only for each month during
+the lease term and not during any period in which the option remains unexercised.
+f. Operating Costs described
+in Section 3.d. of the Lease apply to Expansion Space 2.
+5.
+Expansion
+Space 2 Tenant Improvements.
+A new Section 5.c. is added to the Lease as follows:
+“5.c
+Expansion Space 2 Tenant Improvements.
+After Tenant’s compliance with subsections 6(a), (b), (c), and (d) below, Landlord shall
+provide Tenant a tenant improvement allowance of $129,160.00 (the “Expansion Space 2 Allowance”), payable to Tenant or Tenant’s
+contractors within 15 business days following delivery by Tenant to Landlord of a disbursement request accompanied by the pertinent contractor
+invoices in the format identified on Exhibit D, Tenant’s written approval that the subject of the disbursement request is satisfactory
+to Tenant, and conditional lien waivers for such disbursement request, all in the format identified on Exhibit E. After May 1, 2024,
+Tenant will not be entitled to obtain further advances of the Expansion Space 2 Allowance even if the full Expansion Space 2 Allowance
+has not been disbursed as of such date, and even though tenant improvement costs of Tenant remain unpaid as of such date.”
+2
+6.
+Context
+.
+When referred to collectively or as required by the context, the “Premises” will include the Suite, Expansion Space 1
+and Expansion Space 2. Likewise, the “Term” will include the occupancy periods for the Suite, Expansion Space 1 and
+Expansion Space 2.
+7.
+Ratify.
+Except as modified by this Amendment, all terms and provisions of the Lease remain in effect without change.
+LANDLORD:
+TENANT:
+CAMPUS RESEARCH CORPORATION, an Arizona non-profit corporation
+APPLIED ENERGETICS, INC.,
+a Delaware corporation
+By:
+/s/ Mary Jacobs
+By:
+/s/ Gregory J. Quarles
+Name:
+Mary Jacobs
+Name:
+Gregory J. Quarles
+Title:
+Chair
+Title:
+CEO
+and President
+3

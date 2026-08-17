@@ -60,6 +60,7 @@ def run():
     baseline_mae = summary_df[summary_df["model"] == "seasonal_naive"]["mae"].iloc[0]
     summary_df["vs_seasonal_naive"] = summary_df["mae"].apply(
         lambda m: f"{(baseline_mae - m) / baseline_mae:+.1%}")
+    summary_df.to_csv(RESULTS / "forecast_results.csv", index=False)
 
     md = ["# Forecast Results — Toronto CPI Rented Accommodation", "",
           f"Series: {len(series)} months ({series.index[0]}–{series.index[-1]}), "

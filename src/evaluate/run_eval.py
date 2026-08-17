@@ -104,6 +104,16 @@ def run():
     (RESULTS / "extraction_results.md").write_text(md)
     print(md)
 
+    with open(RESULTS / "extraction_results.csv", "w", newline="") as fh:
+        writer = csv.DictWriter(fh, fieldnames=["system", "micro_p", "micro_r", "micro_f1",
+                                                  "macro_p", "macro_r", "macro_f1", "n_gold"])
+        writer.writeheader()
+        for name, s in all_summaries.items():
+            mi, ma = s["micro"], s["macro"]
+            writer.writerow({"system": name, "micro_p": round(mi[0], 3), "micro_r": round(mi[1], 3),
+                              "micro_f1": round(mi[2], 3), "macro_p": round(ma[0], 3),
+                              "macro_r": round(ma[1], 3), "macro_f1": round(ma[2], 3), "n_gold": len(gold)})
+
     rows = dump_errors(gold, preds_by_system, RESULTS / "errors.csv")
     print(f"\n{len(rows)} errors written to results/errors.csv for manual review")
 

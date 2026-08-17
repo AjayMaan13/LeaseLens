@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001823239_000182323924000032_aex1017xflandersleaseamend",
+  "source": "edgar",
+  "slices": {
+    "property_type": "industrial",
+    "region": "US-CA",
+    "urbanicity": "suburban",
+    "scanned": false,
+    "doc_chars": 5996
+  },
+  "notes": "Second Amendment to Lease Agreement -- same underlying lease/parties/premises as the First Amendment (aex1016) above, restated identically from this amendment's own recitals. This amendment's substance concerns DoD-grant-related construction conditions, not rent -- base_rent_amount, lease_end_date, term_length_months left null as not restated here.",
+  "fields": {
+    "landlord_name": "10240 Flanders Investors LLC",
+    "tenant_name": "TriLink Biotechnologies, LLC",
+    "property_address": "10240 Flanders Court and 10247 Flanders Court, San Diego, California",
+    "property_type": "industrial",
+    "premises_area_sqft": 65006.0,
+    "lease_start_date": "2021-08-06",
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  }
+}

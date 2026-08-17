@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0000879911_000121390023051617_ea180931ex10-1-applied",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-AR",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 5453
+  },
+  "notes": "RECHECK 2026-08-15: substantive corrections against this amendment's own rent table (previously reviewed directly): lease_start_date corrected from a fabricated-looking 'August 1, 2023' to the actual original Lease date stated in recitals (2021-03-15). base_rent_amount corrected from 7435.46 to 17825.33 -- the real first-year extension-period monthly figure from the document's own rent schedule ($16.00/RSF, May 2026-Apr 2027); the previous value did not match anything in the source text. premises_area_sqft was stored as a malformed two-number string ('8375, 9805') -- summed to a single float (18180.0) per guideline \u00a74.4, flagged as a sum, not independently reverified against source text.",
+  "fields": {
+    "landlord_name": "Campus Research Corporation",
+    "tenant_name": "Applied Energetics, Inc.",
+    "property_address": null,
+    "property_type": "commercial",
+    "premises_area_sqft": 18180.0,
+    "lease_start_date": "2021-03-15",
+    "lease_end_date": "2028-07-31",
+    "term_length_months": null,
+    "base_rent_amount": 17825.33,
+    "rent_frequency": "monthly"
+  }
+}
