@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001899287_000189928723000037_leaseagreementdatedapril15",
+  "source": "edgar",
+  "slices": {
+    "property_type": "industrial",
+    "region": "US-CO",
+    "urbanicity": "suburban",
+    "scanned": false,
+    "doc_chars": 219160
+  },
+  "notes": "Very large document (219,160 chars, Northeast Denver industrial market). lease_start_date uses the document's own labeled 'Date of the Lease' field (2023-04-15) -- an explicit, unambiguous value, not inferred. base_rent_amount, lease_end_date, term_length_months not located by targeted search of this large document; likely in a Basic Terms table/exhibit not captured. uncertain: true, worth a fuller read later given this is a very large (774,155 sqft) lease.",
+  "fields": {
+    "landlord_name": "Starboard Platform Brighton JV LLC",
+    "tenant_name": "Amprius Technologies, Inc.",
+    "property_address": "18875 East Bromley Lane, Brighton, Colorado 80601",
+    "property_type": "industrial",
+    "premises_area_sqft": 774155.0,
+    "lease_start_date": "2023-04-15",
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  }
+}

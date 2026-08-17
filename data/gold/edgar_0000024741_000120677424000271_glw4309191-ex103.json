@@ -8,17 +8,17 @@
     "scanned": false,
     "doc_chars": 173336
   },
-  "notes": "",
+  "notes": "RECHECK 2026-08-15: property_type corrected residential->industrial (Corning/Solar Technology manufacturing-related lease financing, not residential); literal 'None' strings normalized to null.",
   "fields": {
     "landlord_name": "BA Leasing BSC, LLC",
     "tenant_name": "Solar Technology LLC",
     "property_address": "Town 12 North, Range 2 East, Richland Township, Saginaw County, Michigan.",
-    "property_type": "residential",
-    "premises_area_sqft": "None",
-    "lease_start_date": "None",
-    "lease_end_date": "None",
-    "term_length_months": "None",
-    "base_rent_amount": "None",
-    "rent_frequency": "Monthly"
+    "property_type": "industrial",
+    "premises_area_sqft": null,
+    "lease_start_date": null,
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": "monthly"
   }
 }

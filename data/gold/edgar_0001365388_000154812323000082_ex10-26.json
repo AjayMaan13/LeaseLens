@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001365388_000154812323000082_ex10-26",
+  "source": "edgar",
+  "slices": {
+    "property_type": "other",
+    "region": "",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 2406
+  },
+  "notes": "Second Amendment to Lease Agreement. Base rent taken from the explicit restated 'Monthly Base Rent' dollar figure ($1,291.36), not derived from the accompanying $0.88/sqft annual PSF rate (both given; explicit monthly figure preferred per guideline \u00a74.2 intent). property_address and premises_area_sqft not restated in this amendment; original lease not in this corpus to check.",
+  "fields": {
+    "landlord_name": "3 Squirrels, LLC",
+    "tenant_name": "High Sierra Technologies, Inc.",
+    "property_address": null,
+    "property_type": null,
+    "premises_area_sqft": null,
+    "lease_start_date": "2023-02-01",
+    "lease_end_date": "2024-01-31",
+    "term_length_months": 12,
+    "base_rent_amount": 1291.36,
+    "rent_frequency": "monthly"
+  }
+}

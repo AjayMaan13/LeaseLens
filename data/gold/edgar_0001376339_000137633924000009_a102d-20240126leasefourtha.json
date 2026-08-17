@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001376339_000137633924000009_a102d-20240126leasefourtha",
+  "source": "edgar",
+  "slices": {
+    "property_type": "other",
+    "region": "US-GA",
+    "urbanicity": "suburban",
+    "scanned": false,
+    "doc_chars": 6502
+  },
+  "notes": "Fourth Amendment to Lease Agreement. Address/sqft/original lease start date taken from this amendment's own recitals (explicitly restated as fact, per guideline \u00a74.5's allowance for values the amendment itself states). property_type not stated explicitly in reviewed text -- left null rather than guessed. This specific Fourth Amendment's substantive changes (likely term or notice modifications) were not captured in the reviewed excerpt; rent/end date/term_length not found in the reviewed portion, left null rather than assumed unchanged.",
+  "fields": {
+    "landlord_name": "Georgia RE Fields, LLC",
+    "tenant_name": "MiMedx Group, Inc.",
+    "property_address": "1775 W. Oak Commons, Marietta, Georgia",
+    "property_type": null,
+    "premises_area_sqft": 79854.0,
+    "lease_start_date": "2013-01-25",
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  }
+}

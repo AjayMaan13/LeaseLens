@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001398805_000168316824001808_beam-ex1001",
+  "source": "edgar",
+  "slices": {
+    "property_type": "industrial",
+    "region": "US-IL",
+    "urbanicity": "suburban",
+    "scanned": false,
+    "doc_chars": 172650
+  },
+  "notes": "Amended & Restated Lease Agreement -- treated as the operative document (a full restatement, not a delta amendment), so its own Effective Date (2024-02-01) is used as lease_start_date. Base rent is Lease Year 1 of an escalating schedule ($28,350/mo, $340,200/yr, $9.00 PSF) per guideline \u00a7base_rent_amount rule: year-1 amount only. lease_end_date computed from 'last day of Lease Year 5' (not an explicit calendar date in the document) -- term_length_months=60 is explicit-equivalent, but the end date itself is a computed estimate, flagged here. uncertain: lease_end_date is computed, not a literal document value.",
+  "fields": {
+    "landlord_name": "CRE South 25th Associates LLC",
+    "tenant_name": "Beam Global",
+    "property_address": "2600 South 25th Street, Broadview, IL 60155",
+    "property_type": "industrial",
+    "premises_area_sqft": 15582.0,
+    "lease_start_date": "2024-02-01",
+    "lease_end_date": "2029-01-31",
+    "term_length_months": 60,
+    "base_rent_amount": 28350.0,
+    "rent_frequency": "monthly"
+  }
+}

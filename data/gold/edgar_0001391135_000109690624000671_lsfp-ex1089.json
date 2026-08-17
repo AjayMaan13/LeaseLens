@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001391135_000109690624000671_lsfp-ex1089",
+  "source": "edgar",
+  "slices": {
+    "property_type": "industrial",
+    "region": "US-CO",
+    "urbanicity": "rural",
+    "scanned": false,
+    "doc_chars": 26953
+  },
+  "notes": "Commercial Lease Agreement (metal warehouse unit + loft space, 1,421 + 784 sqft). Base rent taken from the explicit monthly installment figure ($2,500.00); document also states an annual base rental of $30,000.00 for the same amount -- consistent, monthly used for uniformity with other records. Same tenant (Lifted Liquids, Inc.) as the Aztec, NM assignment doc in this batch.",
+  "fields": {
+    "landlord_name": "CR Properties, LLC",
+    "tenant_name": "Lifted Liquids, Inc",
+    "property_address": "789 Tech Center Drive, Unit C, Durango, Colorado 81301",
+    "property_type": "industrial",
+    "premises_area_sqft": 2205.0,
+    "lease_start_date": "2024-03-01",
+    "lease_end_date": "2025-02-28",
+    "term_length_months": 12,
+    "base_rent_amount": 2500.0,
+    "rent_frequency": "monthly"
+  }
+}

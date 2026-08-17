@@ -55,12 +55,12 @@ def dump_errors(gold, preds_by_system, out_path):
 
 def format_results_md(gold, all_summaries):
     n_gold = len(gold)
+    n_usable = len(sorted(pathlib.Path("data/interim").glob("edgar_*.txt"))) - len(
+        json.loads((pathlib.Path("data/interim") / "excluded_doc_ids.json").read_text())["excluded"])
     lines = [
         "# Extraction Results",
         "",
-        f"Scored against **{n_gold} labeled gold documents** "
-        f"(of 42 usable EDGAR documents total -- labeling in progress, "
-        f"this will be re-run as more are labeled).",
+        f"Scored against **{n_gold} labeled gold documents** (of {n_usable} usable EDGAR documents total).",
         "",
         "## Micro / Macro P/R/F1 by system",
         "",

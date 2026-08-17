@@ -8,17 +8,17 @@
     "scanned": false,
     "doc_chars": 84552
   },
-  "notes": "CORRECTION 2026-08-15: previous values (Dirk Holder / Maria Rocha Barros) were signature-block names, not entities -- removed. This exhibit is a Sale and Purchase Agreement for a sale-leaseback (Booking.com Real Estate Amsterdam B.V. as Seller, D-IE Wiis Oosterdok Cooperatief U.A. as Purchaser, Booking.com Holding B.V. as Guarantor) -- not structured as Landlord/Tenant in this document. Set to null pending a human read of the full document to locate the actual lease terms (uncertain: true).",
+  "notes": "CORRECTION 2026-08-15: previous values (Dirk Holder / Maria Rocha Barros) were signature-block names, not entities -- removed. This exhibit is a Sale and Purchase Agreement for a sale-leaseback (Booking.com Real Estate Amsterdam B.V. as Seller, D-IE Wiis Oosterdok Cooperatief U.A. as Purchaser, Booking.com Holding B.V. as Guarantor) -- not structured as Landlord/Tenant in this document. Set to null pending a human read of the full document to locate the actual lease terms (uncertain: true). | RECHECK 2026-08-15: property_type set to null (was 'Commercial') -- this document was already determined to be a Sale and Purchase Agreement, not a Landlord/Tenant lease instrument (see main changelog entry above), so a property_type judgment isn't well-founded without reading the actual referenced lease. rent_frequency enum-cased (Yearly->annual). base_rent_amount (1631422.27) kept as-is -- not independently reverified against source text this session, uncertain given the document's SPA structure.",
   "fields": {
     "landlord_name": null,
     "tenant_name": null,
     "property_address": null,
-    "property_type": "Commercial",
+    "property_type": null,
     "premises_area_sqft": null,
-    "lease_start_date": "December 14, 2022",
+    "lease_start_date": "2022-12-14",
     "lease_end_date": null,
     "term_length_months": null,
-    "base_rent_amount": "1631422.27",
-    "rent_frequency": "Yearly"
+    "base_rent_amount": 1631422.27,
+    "rent_frequency": "annual"
   }
 }

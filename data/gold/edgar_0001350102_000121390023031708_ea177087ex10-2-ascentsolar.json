@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001350102_000121390023031708_ea177087ex10-2-ascentsolar",
+  "source": "edgar",
+  "slices": {
+    "property_type": "industrial",
+    "region": "CH-ZH",
+    "urbanicity": "suburban",
+    "scanned": false,
+    "doc_chars": 13353
+  },
+  "notes": "Sublease Agreement. landlord_name/tenant_name use Sublessor/Sublessee (Flisom AG is Ascent's direct landlord); Master Lessor is a separate individual (Alex Michael Hadjimina) one level up and not recorded here. base_rent_amount is CHF 52,000/month, NOT USD -- currency differs from the rest of this corpus, flagged for downstream awareness. Term is indefinite per document (no fixed end date stated), so lease_end_date/term_length_months left null.",
+  "fields": {
+    "landlord_name": "Flisom AG",
+    "tenant_name": "Ascent Solar Technologies Inc.",
+    "property_address": "Gewerbestrasse 16, 8155 Niederhasli, Switzerland",
+    "property_type": "industrial",
+    "premises_area_sqft": null,
+    "lease_start_date": "2023-04-17",
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": 52000.0,
+    "rent_frequency": "monthly"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001453687_000145368724000036_exhibit1011aleaseagreement",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-MD",
+    "urbanicity": "suburban",
+    "scanned": false,
+    "doc_chars": 142383
+  },
+  "notes": "base_rent_amount is redacted in the source document ('[***] per rentable square foot per year') per SEC Reg S-K Item 601(b)(10) -- left null per guideline's redacted-value rule; rent_frequency (annual) is still known even though the dollar figure is not. lease_start_date is the stated 'Target Commencement Date' (Nov 1, 2018), not a confirmed actual date. lease_end_date is computed from start + 66-month Base Term, not a literal document value -- flagged as computed.",
+  "fields": {
+    "landlord_name": "704 Quince Orchard Owner, LLC",
+    "tenant_name": "Cartesian Therapeutics, Inc.",
+    "property_address": "704 Quince Orchard Road, Gaithersburg, Maryland",
+    "property_type": "commercial",
+    "premises_area_sqft": 4762.0,
+    "lease_start_date": "2018-11-01",
+    "lease_end_date": "2024-05-01",
+    "term_length_months": 66,
+    "base_rent_amount": null,
+    "rent_frequency": "annual"
+  }
+}

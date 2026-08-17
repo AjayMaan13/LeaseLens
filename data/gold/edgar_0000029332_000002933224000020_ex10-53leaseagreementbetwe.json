@@ -8,17 +8,17 @@
     "scanned": false,
     "doc_chars": 108858
   },
-  "notes": "",
+  "notes": "RECHECK 2026-08-15: rent_frequency corrected Monthly->annual -- $1,495,660 as a monthly figure implies ~$61/sqft/yr on a 294,020 sqft warehouse (implausible); as annual it's ~$5.09/sqft/yr, consistent with industrial warehouse rates. Dates were only partial ('December, 2023'/'2033', no day) -- left null rather than invent a day; original text preserved here.",
   "fields": {
     "landlord_name": "Adairsville GA, LLC",
     "tenant_name": "TDG Operations, LLC",
     "property_address": "400 Princeton Boulevard, Adairsville, Gerogia 30103",
     "property_type": "commercial",
-    "premises_area_sqft": "294,020",
-    "lease_start_date": "December, 2023",
-    "lease_end_date": "December, 2033",
-    "term_length_months": "120",
-    "base_rent_amount": "1495660.00",
-    "rent_frequency": "Monthly"
+    "premises_area_sqft": 294020.0,
+    "lease_start_date": null,
+    "lease_end_date": null,
+    "term_length_months": 120,
+    "base_rent_amount": 1495660.0,
+    "rent_frequency": "annual"
   }
 }

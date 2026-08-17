@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001650164_000165016423000159_ex101toastleasetermination",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-MA",
+    "urbanicity": "urban",
+    "scanned": false,
+    "doc_chars": 23756
+  },
+  "notes": "Agreement for Termination of Lease -- two premises (Suite 801, 111,294 sqft + Suite 502, 22,495 sqft = 133,789 sqft summed here per guideline \u00a74.4). Original Lease dated 2015-06-12, amended 7 times since. lease_end_date uses the accelerated Eighth Floor Termination Date (2023-06-30, this is what this termination agreement actually changes) rather than the original scheduled expiration (2029-12-31, also stated in the document for reference). The Fifth Floor Premises may have a separately negotiated termination date not captured here -- flagged uncertain. No rent figure recorded: this document concerns termination payments, not base rent.",
+  "fields": {
+    "landlord_name": "ARE-MA Region No. 88 Tenant, LLC",
+    "tenant_name": "Toast, Inc.",
+    "property_address": "401 Park Drive, Boston, Massachusetts",
+    "property_type": "commercial",
+    "premises_area_sqft": 133789.0,
+    "lease_start_date": "2015-06-12",
+    "lease_end_date": "2023-06-30",
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  }
+}

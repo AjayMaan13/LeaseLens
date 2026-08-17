@@ -8,17 +8,17 @@
     "scanned": false,
     "doc_chars": 178922
   },
-  "notes": "",
+  "notes": "RECHECK 2026-08-15: rent_frequency filled in as monthly (was null) -- $166,652.50 as an annual figure on 186,900 sqft implies ~$0.89/sqft/yr (implausible, too low); as monthly it's ~$10.7/sqft/yr, plausible for this class of industrial/logistics building. term_length_months (124) is an unusual but not implausible number, kept as-is.",
   "fields": {
     "landlord_name": "CRP/AI Freeport Parkway Owner, L.P.",
     "tenant_name": "Priority Fulfillment Services, Inc.",
     "property_address": "4401 Regent Boulevard, Irving, Texas 75063",
-    "property_type": "Commercial",
-    "premises_area_sqft": "186900",
-    "lease_start_date": "July 1, 2023",
+    "property_type": "commercial",
+    "premises_area_sqft": 186900.0,
+    "lease_start_date": "2023-07-01",
     "lease_end_date": null,
-    "term_length_months": "124",
-    "base_rent_amount": "166,652.50",
-    "rent_frequency": null
+    "term_length_months": 124,
+    "base_rent_amount": 166652.5,
+    "rent_frequency": "monthly"
   }
 }

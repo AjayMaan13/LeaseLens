@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001710583_000171058322000046_ninthamendmenttoleasedated",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-NV",
+    "urbanicity": "urban",
+    "scanned": false,
+    "doc_chars": 12130
+  },
+  "notes": "Ninth Amendment. Original 'Existing Premises' was 73,302 rentable sqft; this amendment reduces it by 35,271 sqft (a 'Give-Back Space') effective 2022-09-01, leaving 38,031 sqft -- recorded the resulting current sqft (computed: 73302-35271=38031) rather than the pre-reduction figure, since that reflects the premises as of this amendment. Base rent not restated with a new figure in this amendment (only references existing rent obligations), left null.",
+  "fields": {
+    "landlord_name": "Beltway Business Park Office No. 2, LLC",
+    "tenant_name": "InNEVation L.L.C.",
+    "property_address": "6795 Edmond Street, Las Vegas, Nevada",
+    "property_type": "commercial",
+    "premises_area_sqft": 38031.0,
+    "lease_start_date": "2012-04-24",
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  }
+}

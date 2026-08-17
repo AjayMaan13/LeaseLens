@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001617553_000161755322000054_ex101terminationofleaseagr",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-AZ",
+    "urbanicity": "suburban",
+    "scanned": false,
+    "doc_chars": 16420
+  },
+  "notes": "Termination of Lease Agreement, not the original lease -- per guideline \u00a74.5 analog, only values this document itself states are recorded. Original Lease date (2016-11-08) and the pre-termination 'orderly expiration date' (2023-01-15, restated here for reference even though the lease is being terminated early) are both explicitly stated in this document's recitals. base_rent_amount deliberately left null: the only dollar figure in this document is a $130,389.33 Termination Fee, which is NOT base rent and would be a category error to record as such.",
+  "fields": {
+    "landlord_name": "Cousins Fund II Phoenix III, LLC",
+    "tenant_name": "ZipRecruiter, Inc.",
+    "property_address": "40 East Rio Salado, Tempe, Arizona 85281",
+    "property_type": "commercial",
+    "premises_area_sqft": 27135.0,
+    "lease_start_date": "2016-11-08",
+    "lease_end_date": "2023-01-15",
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  }
+}

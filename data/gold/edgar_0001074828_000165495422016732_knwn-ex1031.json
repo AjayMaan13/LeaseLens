@@ -8,17 +8,17 @@
     "scanned": false,
     "doc_chars": 19622
   },
-  "notes": "",
+  "notes": "RECHECK 2026-08-15: base_rent_amount corrected from 91500 to 7000 -- verified directly against source text ('Tenants shall pay to Landlord a monthly rent of $7,000'); the original value did not match anything in the document and its origin is unclear. premises_area_sqft corrected from 2134 (total building) to 1700 (the actual leased portion, per 'Landlord rents to Tenants ... 1,700 square feet of the total 2,134 square feet'). property_type kept as residential (typo-fixed from 'residendial') -- the space is a converted residential property used as office/lab, genuinely ambiguous, kept as originally judged absent stronger counter-evidence.",
   "fields": {
     "landlord_name": "Phil Bosua",
     "tenant_name": "Know Labs, Inc.",
     "property_address": "58969 Carmelita Circle, Yucca Valley, CA",
-    "property_type": "residendial",
-    "premises_area_sqft": "2134",
-    "lease_start_date": "September 1, 2021",
-    "lease_end_date": "September 30, 2023",
-    "term_length_months": "25",
-    "base_rent_amount": "91500",
-    "rent_frequency": "Monthly"
+    "property_type": "residential",
+    "premises_area_sqft": 1700.0,
+    "lease_start_date": "2021-09-01",
+    "lease_end_date": "2023-09-30",
+    "term_length_months": 25,
+    "base_rent_amount": 7000.0,
+    "rent_frequency": "monthly"
   }
 }

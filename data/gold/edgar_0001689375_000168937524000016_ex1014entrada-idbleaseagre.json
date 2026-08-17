@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001689375_000168937524000016_ex1014entrada-idbleaseagre",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-MA",
+    "urbanicity": "urban",
+    "scanned": false,
+    "doc_chars": 211379
+  },
+  "notes": "Large document (211,379 chars, life sciences/lab space -- '5th/6th Floors', vivarium clause). lease_start_date uses the defined 'Scheduled Commencement Date' (2022-04-01), not the cover-page execution date (March 16, 2022). Document includes a 5-year renewal option after the initial term per guideline \u00a74.3 (initial term only) -- but the initial term's own length/end date and base rent dollar figure were not located in the reviewed excerpts of this large document; left null rather than guessed. uncertain: true, worth a fuller read later.",
+  "fields": {
+    "landlord_name": "IDB 17-19 Drydock Limited Partnership",
+    "tenant_name": "Entrada Therapeutics, Inc.",
+    "property_address": "One Design Center Place, Boston, Massachusetts",
+    "property_type": "commercial",
+    "premises_area_sqft": 81442.0,
+    "lease_start_date": "2022-04-01",
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  }
+}

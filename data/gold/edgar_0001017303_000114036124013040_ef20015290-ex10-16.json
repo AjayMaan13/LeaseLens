@@ -8,17 +8,17 @@
     "scanned": false,
     "doc_chars": 54438
   },
-  "notes": "",
+  "notes": "RECHECK 2026-08-15: rent_frequency corrected Monthly->annual -- as monthly, $517,208 implies ~$84/sqft/yr on 73,887 sqft (implausible); as annual, ~$7/sqft/yr, plausible for this class of building. lease_end_date computed from start + 120-month term (not a literal document value in the reviewed excerpt), flagged as computed. property_address remains null -- not found in the portions of this document reviewed.",
   "fields": {
     "landlord_name": "Bomax Properties, LLC",
     "tenant_name": "Transact Technologies Incorporated",
-    "property_address": "None",
-    "property_type": "Commercial",
-    "premises_area_sqft": "73887",
-    "lease_start_date": "July 18, 2001",
-    "lease_end_date": null,
-    "term_length_months": "120",
-    "base_rent_amount": "517,208",
-    "rent_frequency": "Monthly"
+    "property_address": null,
+    "property_type": "commercial",
+    "premises_area_sqft": 73887.0,
+    "lease_start_date": "2001-07-18",
+    "lease_end_date": "2011-07-18",
+    "term_length_months": 120,
+    "base_rent_amount": 517208.0,
+    "rent_frequency": "annual"
   }
 }

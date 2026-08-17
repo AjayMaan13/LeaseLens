@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001453687_000145368724000036_exhibit1012leasebetween749",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-MD",
+    "urbanicity": "suburban",
+    "scanned": false,
+    "doc_chars": 172942
+  },
+  "notes": "Second facility for the same tenant as exhibit1011a (Cartesian Therapeutics), different landlord and property. base_rent_amount is Lease Year 1 of an explicit escalating schedule ($47.00/sqft, $902,353.00/yr, $75,196.08/mo) -- year-1 monthly figure used per guideline. lease_start_date uses the document's Effective Date (2024-02-28) as a fallback -- the Term itself actually runs from a separately defined 'Commencement Date'/'Delivery Date' whose specific calendar value was not found in the reviewed excerpt, so lease_end_date (computed as start + 7 Lease Years = 84 months) is an approximation, not a literal value -- flagged as computed/uncertain.",
+  "fields": {
+    "landlord_name": "7495 RP, LLC",
+    "tenant_name": "Cartesian Therapeutics, Inc.",
+    "property_address": "7495 New Horizon Way, Frederick, Maryland 21702",
+    "property_type": "commercial",
+    "premises_area_sqft": 19199.0,
+    "lease_start_date": "2024-02-28",
+    "lease_end_date": "2031-02-28",
+    "term_length_months": 84,
+    "base_rent_amount": 75196.08,
+    "rent_frequency": "monthly"
+  }
+}

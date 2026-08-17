@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001551986_000155198622000102_ex-1019meterslease",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 176715
+  },
+  "notes": "Large document (176,715 chars); targeted search found the parties and rentable premises sqft (7,418 sqft, 5.14% pro rata share) but not a specific property street address, base rent dollar figure, or commencement date -- these likely sit in a Basic Lease Information table/exhibit not captured by the keyword search used. Left null rather than guessed; flagged for a fuller read if this document is prioritized later. uncertain: true on missing fields.",
+  "fields": {
+    "landlord_name": "Crabtree Terrace Holdings LLC",
+    "tenant_name": "9 Meters Biopharma, Inc.",
+    "property_address": null,
+    "property_type": "commercial",
+    "premises_area_sqft": 7418.0,
+    "lease_start_date": null,
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  }
+}

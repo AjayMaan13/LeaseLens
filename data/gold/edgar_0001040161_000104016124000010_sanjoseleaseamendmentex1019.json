@@ -8,17 +8,17 @@
     "scanned": false,
     "doc_chars": 34070
   },
-  "notes": "",
+  "notes": "RECHECK 2026-08-15: typo fixed (Comercial->commercial). Dates were only partial ('October 2024'/'November 2027', no day) -- left null rather than invent a day.",
   "fields": {
     "landlord_name": "Hudson Concourse, LLC",
     "tenant_name": "Pixelworks, Inc.",
     "property_address": "226 Airport Parkway, San Jose, California",
-    "property_type": "Comercial",
-    "premises_area_sqft": "10051",
-    "lease_start_date": "October 2024",
-    "lease_end_date": "November 2027",
+    "property_type": "commercial",
+    "premises_area_sqft": 10051.0,
+    "lease_start_date": null,
+    "lease_end_date": null,
     "term_length_months": null,
-    "base_rent_amount": "22568",
-    "rent_frequency": "Monthly"
+    "base_rent_amount": 22568.0,
+    "rent_frequency": "monthly"
   }
 }

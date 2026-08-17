@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001553264_000168316822008699_aquapower-ex1011",
+  "source": "edgar",
+  "slices": {
+    "property_type": "industrial",
+    "region": "US-IN",
+    "urbanicity": "suburban",
+    "scanned": false,
+    "doc_chars": 141877
+  },
+  "notes": "Industrial Real Estate Lease Agreement. The template's own Effective Date has a blank day ('November_, 2022') so lease_start_date instead uses the first period-start of the explicit rent schedule (12/1/22), which is a complete, unambiguous date. base_rent_amount is the first rent schedule period's monthly figure ($126,528.68 at $3.90/sqft, 12/1/22-6/30/23) -- an escalating schedule follows, year/period-1 used per guideline. premises_area_sqft uses the 389,319 sqft Warehouse/Office Premises figure (there are also smaller Truck Terminal and maintenance spaces noted separately, not summed in here). lease_end_date/term_length_months not found in reviewed excerpt, left null.",
+  "fields": {
+    "landlord_name": "Franklin IN LP",
+    "tenant_name": "Tradition Logistics L.L.C.",
+    "property_address": "333 South Franklin Road, Indianapolis, Indiana",
+    "property_type": "industrial",
+    "premises_area_sqft": 389319.0,
+    "lease_start_date": "2022-12-01",
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": 126528.68,
+    "rent_frequency": "monthly"
+  }
+}

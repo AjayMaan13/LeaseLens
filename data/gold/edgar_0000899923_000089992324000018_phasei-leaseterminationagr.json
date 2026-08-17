@@ -8,17 +8,17 @@
     "scanned": false,
     "doc_chars": 12330
   },
-  "notes": "",
+  "notes": "RECHECK 2026-08-15: type/format normalization only (strings to numbers, ISO dates, enum casing); no substantive discrepancy found against what was already reviewed for this document.",
   "fields": {
     "landlord_name": "HCPI/UTAH II, LLC",
     "tenant_name": "Myriad Genetics, Inc.",
     "property_address": "320 Wakara Way, Salt Lake City, Utah",
-    "property_type": "Commercial",
-    "premises_area_sqft": "48,483",
-    "lease_start_date": "February 3, 2016",
-    "lease_end_date": "December 31, 2025",
-    "term_length_months": "None",
-    "base_rent_amount": "None",
-    "rent_frequency": "None"
+    "property_type": "commercial",
+    "premises_area_sqft": 48483.0,
+    "lease_start_date": "2016-02-03",
+    "lease_end_date": "2025-12-31",
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
   }
 }

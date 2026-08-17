@@ -8,17 +8,17 @@
     "scanned": false,
     "doc_chars": 155300
   },
-  "notes": "",
+  "notes": "RECHECK 2026-08-15: lease_start_date corrected from partial 'December 2022' to the specific date (2022-12-01) cross-referenced from a sibling Assignment document in this corpus that restates this same original Lease's effective date in its recitals. property_address had a formatting glitch (double 'and') fixed. High rent-per-sqft (~$93.5/sqft/yr) is expected and left as-is: this is a Licensed Cannabis Facility Absolute Net Lease, an asset class with much higher typical rates.",
   "fields": {
     "landlord_name": "ZP RE MI Woodward, LLC",
     "tenant_name": "Rapid Fish 2 LLC",
-    "property_address": "23600, 23616 and 23622, and 23634 Woodward Ave, Pleasant Ridge. MI 48069",
-    "property_type": "Commercial",
-    "premises_area_sqft": "5172",
-    "lease_start_date": "December 2022",
+    "property_address": "23600, 23616, 23622, and 23634 Woodward Ave, Pleasant Ridge, MI 48069",
+    "property_type": "commercial",
+    "premises_area_sqft": 5172.0,
+    "lease_start_date": "2022-12-01",
     "lease_end_date": null,
-    "term_length_months": "180",
-    "base_rent_amount": "40,318.82",
-    "rent_frequency": "Monthly"
+    "term_length_months": 180,
+    "base_rent_amount": 40318.82,
+    "rent_frequency": "monthly"
   }
 }

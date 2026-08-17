@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001415813_000168316823004406_unmonde-ex1004",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "CA-ON",
+    "urbanicity": "suburban",
+    "scanned": false,
+    "doc_chars": 17731
+  },
+  "notes": "Periodic (month-to-month) tenancy per document text -- no fixed lease_end_date/term_length_months exists to record. base_rent_amount not found despite targeted search for 'Base Rent'/dollar figures; document states rent is on a 'gross rent basis' but the actual dollar amount was not located in the reviewed text (only a $12,327.48 CAD security deposit was found, which is NOT the rent and was not used). Left null rather than guessed. Canadian lease (CAD currency).",
+  "fields": {
+    "landlord_name": "SunnyBrook Education Group",
+    "tenant_name": "Un Monde International Worldwide Ltd.",
+    "property_address": "1-45A West Wilmost St., Richmond Hill, ON, L4B 2P2, Canada",
+    "property_type": "commercial",
+    "premises_area_sqft": null,
+    "lease_start_date": "2023-05-01",
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  }
+}

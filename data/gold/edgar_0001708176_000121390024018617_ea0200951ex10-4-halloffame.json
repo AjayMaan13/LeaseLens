@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001708176_000121390024018617_ea0200951ex10-4-halloffame",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-OH",
+    "urbanicity": "suburban",
+    "scanned": false,
+    "doc_chars": 31130
+  },
+  "notes": "Second Amendment to the Ground Lease above (same landlord/tenant/original lease date, restated in recitals). This amendment's substance concerns a Guarantor/Mortgagor structure and a large amortization schedule (likely loan-related, not base rent) -- not a simple rent/term restatement, so those fields left null rather than misread the amortization table as rent.",
+  "fields": {
+    "landlord_name": "HFAKOH001 LLC",
+    "tenant_name": "HOF Village Waterpark, LLC",
+    "property_address": null,
+    "property_type": "commercial",
+    "premises_area_sqft": null,
+    "lease_start_date": "2022-11-07",
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  }
+}

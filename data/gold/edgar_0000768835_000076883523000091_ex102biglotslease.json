@@ -8,17 +8,17 @@
     "scanned": false,
     "doc_chars": 161496
   },
-  "notes": "",
+  "notes": "RECHECK 2026-08-15: dates normalized to ISO; lease_end_date computed from start + 60-month term (original value was just '2028', not a full date) -- flagged as computed. property_type filled in as commercial (structured retail distribution lease financing for Big Lots). sqft/rent were not found in the excerpts reviewed and remain null.",
   "fields": {
     "landlord_name": "Bankers Commercial Corporation",
     "tenant_name": "AVDC, LLC",
     "property_address": "445 S. Figueroa Street, 14 th Floor, Los Angeles, California 90071",
-    "property_type": null,
+    "property_type": "commercial",
     "premises_area_sqft": null,
-    "lease_start_date": "March 15, 2023",
-    "lease_end_date": "2028",
-    "term_length_months": "60",
-    "base_rent_amount": "None",
-    "rent_frequency": "None"
+    "lease_start_date": "2023-03-15",
+    "lease_end_date": "2028-03-15",
+    "term_length_months": 60,
+    "base_rent_amount": null,
+    "rent_frequency": null
   }
 }

@@ -8,17 +8,17 @@
     "scanned": false,
     "doc_chars": 15715
   },
-  "notes": "",
+  "notes": "RECHECK 2026-08-15: property_type corrected residential->commercial -- tenant is an oil & gas company at a Dallas expressway address, not residential use. rent_frequency filled in as monthly (was null) -- consistent with a plausible office rent per sqft at that frequency.",
   "fields": {
     "landlord_name": "Hartman SPE, LLC",
     "tenant_name": "Zion Oil & Gas, Inc.",
     "property_address": "12655 N. Central Expressway, Dallas, Texas 75243",
-    "property_type": "residential",
-    "premises_area_sqft": "8774",
-    "lease_start_date": "June 1, 2023",
-    "lease_end_date": "December 31, 2024",
-    "term_length_months": "19",
-    "base_rent_amount": "7677.25",
-    "rent_frequency": null
+    "property_type": "commercial",
+    "premises_area_sqft": 8774.0,
+    "lease_start_date": "2023-06-01",
+    "lease_end_date": "2024-12-31",
+    "term_length_months": 19,
+    "base_rent_amount": 7677.25,
+    "rent_frequency": "monthly"
   }
 }

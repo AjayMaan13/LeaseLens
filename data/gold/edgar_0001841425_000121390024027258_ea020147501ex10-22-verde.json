@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001841425_000121390024027258_ea020147501ex10-22-verde",
+  "source": "edgar",
+  "slices": {
+    "property_type": "industrial",
+    "region": "US-NJ",
+    "urbanicity": "suburban",
+    "scanned": false,
+    "doc_chars": 7182
+  },
+  "notes": "Seventh Amendment to Lease. Premises sqft (34,388) and original Lease date (2011-03-01) taken from this amendment's own recitals. property_address not located by targeted search in the reviewed excerpt (landlord/tenant notice addresses are given, but not clearly the premises street address itself) -- left null rather than guessed. Effective Date in the header has a blank day ('____ day of January 2024'), consistent with lease_start_date instead using the original 2011 lease date. base_rent_amount/lease_end_date/term_length_months not found, left null.",
+  "fields": {
+    "landlord_name": "Hillsborough Park, L.L.C.",
+    "tenant_name": "Bluescape Clean Fuels, LLC",
+    "property_address": null,
+    "property_type": "industrial",
+    "premises_area_sqft": 34388.0,
+    "lease_start_date": "2011-03-01",
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  }
+}

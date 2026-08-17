@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001279620_000121390023039488_f10q0323ex10-4-zonedprop",
+  "source": "edgar",
+  "slices": {
+    "property_type": "industrial",
+    "region": "US-MI",
+    "urbanicity": "suburban",
+    "scanned": false,
+    "doc_chars": 6998
+  },
+  "notes": "Assignment and Assumption of Lease (not the primary Lease itself). Landlord unchanged; tenant_name is the Assignee (Rapid Fish LLC), who becomes tenant of record; prior tenant/Assignor was Rapid Fish 2 LLC. Original Lease effective date (2022-12-01) restated in recitals; rent/term/sqft not restated in this instrument, left null per guideline \u00a74.5 analog.",
+  "fields": {
+    "landlord_name": "ZP RE MI Woodward LLC",
+    "tenant_name": "Rapid Fish LLC",
+    "property_address": "23622 and 23616 Woodward Ave, Pleasant Ridge, MI 48069",
+    "property_type": "industrial",
+    "premises_area_sqft": null,
+    "lease_start_date": "2022-12-01",
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  }
+}

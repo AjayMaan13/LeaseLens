@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001823239_000182323924000032_aex1016xflandersleaseamend",
+  "source": "edgar",
+  "slices": {
+    "property_type": "industrial",
+    "region": "US-CA",
+    "urbanicity": "suburban",
+    "scanned": false,
+    "doc_chars": 4491
+  },
+  "notes": "First Amendment to Lease Agreement. Two premises stated in recitals (32,236 + 32,770 = 65,006 sqft, summed per guideline \u00a74.4); original Lease date (2021-08-06) also from recitals. This amendment's own substance concerns an Abatement Period change, not rent -- base_rent_amount, lease_end_date, term_length_months left null as not restated here.",
+  "fields": {
+    "landlord_name": "10240 Flanders Investors LLC",
+    "tenant_name": "TriLink Biotechnologies, LLC",
+    "property_address": "10240 Flanders Court and 10247 Flanders Court, San Diego, California",
+    "property_type": "industrial",
+    "premises_area_sqft": 65006.0,
+    "lease_start_date": "2021-08-06",
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
+  }
+}

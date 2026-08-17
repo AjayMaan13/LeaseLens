@@ -8,17 +8,17 @@
     "scanned": false,
     "doc_chars": 3767
   },
-  "notes": "",
+  "notes": "RECHECK 2026-08-15: lease_start_date corrected -- original value ('July 30, 2007') did not match this document's own recitals, which state the original Lease is dated August 5, 1994. term_length_months ('300') could not be verified for this multiply-extended ground lease and was set to null rather than kept as an unverified guess.",
   "fields": {
     "landlord_name": "Arizona Board of Regents for and on behalf of the University of Arizona",
     "tenant_name": "Campus Research Corporation",
-    "property_address": "None",
-    "property_type": "Industrial",
-    "premises_area_sqft": "None",
-    "lease_start_date": "July 30, 2007",
-    "lease_end_date": "July 31, 2033",
-    "term_length_months": "300",
-    "base_rent_amount": "None",
-    "rent_frequency": "None"
+    "property_address": null,
+    "property_type": "industrial",
+    "premises_area_sqft": null,
+    "lease_start_date": "1994-08-05",
+    "lease_end_date": "2033-07-31",
+    "term_length_months": null,
+    "base_rent_amount": null,
+    "rent_frequency": null
   }
 }

@@ -8,17 +8,17 @@
     "scanned": false,
     "doc_chars": 33351
   },
-  "notes": "",
+  "notes": "RECHECK 2026-08-15: values already internally consistent (54-month term matches Sep 2021-Feb 2026 span) -- only type/format normalization applied (strings to numbers, ISO dates, enum casing).",
   "fields": {
     "landlord_name": "Sichuan Anyi Hengke Technology Co., Ltd.",
     "tenant_name": "Yubo Jingzhi Biotechnology (Chengdu) Co., Ltd",
-    "property_address": "None",
-    "property_type": "Commercial",
-    "premises_area_sqft": "1282.34",
-    "lease_start_date": "September 1, 2021",
-    "lease_end_date": "February 28, 2026",
-    "term_length_months": "54",
-    "base_rent_amount": "330,844",
-    "rent_frequency": "Annually"
+    "property_address": null,
+    "property_type": "commercial",
+    "premises_area_sqft": 1282.34,
+    "lease_start_date": "2021-09-01",
+    "lease_end_date": "2026-02-28",
+    "term_length_months": 54,
+    "base_rent_amount": 330844.0,
+    "rent_frequency": "annual"
   }
 }
