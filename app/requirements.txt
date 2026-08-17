@@ -1,0 +1,9 @@
+# Streamlit Community Cloud reads this file (co-located with the app entry
+# point) instead of the repo-root requirements.txt, which pulls in torch,
+# Prophet (needs a compiled cmdstan backend), and Scrapy -- none of which
+# the dashboard uses. This is the actual minimal set (confirmed via AST
+# import analysis of app/streamlit_app.py + everything it imports).
+streamlit==1.40.1
+pandas==2.2.3
+pydantic==2.9.2
+python-dateutil==2.9.0.post0

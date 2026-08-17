@@ -1,7 +1,10 @@
 # LeaseLens — document extraction & rent forecasting for real estate
 
-[![CI](https://github.com/AjayMaan13/lease-lens/actions/workflows/ci.yml/badge.svg)](https://github.com/AjayMaan13/lease-lens/actions/workflows/ci.yml)
-[Bias report](docs/bias-report.md) · [Evaluation methodology](docs/evaluation.md) · [Data provenance](docs/data-provenance.md)
+[![CI](https://github.com/AjayMaan13/LeaseLens/actions/workflows/ci.yml/badge.svg)](https://github.com/AjayMaan13/LeaseLens/actions/workflows/ci.yml)
+[Live demo](#) · [Bias report](docs/bias-report.md) · [Evaluation methodology](docs/evaluation.md) · [Data provenance](docs/data-provenance.md)
+
+<!-- TODO before submitting: replace the "#" above with the real Streamlit Community
+     Cloud URL once deployed. Verify the CI badge is actually green on GitHub first. -->
 
 Extracts 10 structured financial fields from commercial lease agreements and
 forecasts neighbourhood rents. Built as an **evaluation-first** project:
