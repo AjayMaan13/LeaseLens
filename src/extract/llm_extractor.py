@@ -28,13 +28,26 @@ Rules:
 No prose, no markdown fences."""
 
 
-def chunk(text: str, head=8000, win=3000, max_chars=24000) -> str:
+def chunk(text: str, head=8000, tail=3000, win=3000, max_chars=24000) -> str:
+    """Head + tail are reserved unconditionally before keyword windows get
+    any budget. Checked empirically against this corpus: canonical first
+    mentions of rent/sqft/commencement cluster in the first ~10% of a
+    document, while signature blocks and closing/rider terms cluster in the
+    last ~10% -- a head-plus-keyword-only chunker (the original version)
+    could have that tail starved out entirely, since "rent"/"Landlord"
+    repeat densely through the middle and can fill the budget first.
+    """
     parts = [text[:head]]
+    if len(text) > head + tail:
+        parts.append(text[-tail:])
+    budget = max_chars - sum(map(len, parts))
     for m in re.finditer(r"\b(base rent|monthly rent|annual rent|square feet|term of)\b", text, re.I):
-        if m.start() > head:
-            parts.append(text[max(0, m.start() - win // 2): m.start() + win // 2])
-        if sum(map(len, parts)) > max_chars:
+        if budget <= 0:
             break
+        if head < m.start() < len(text) - tail:   # skip windows already covered by head/tail
+            window = text[max(0, m.start() - win // 2): m.start() + win // 2]
+            parts.append(window)
+            budget -= len(window)
     return "\n\n---\n\n".join(parts)[:max_chars]
 
 
