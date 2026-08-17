@@ -7,3 +7,5 @@ data/interim/*
 .cache/
 *.pyc
 .DS_Store
+.coverage
+.pytest_cache/
