@@ -13,8 +13,8 @@
   },
   "llm_structured": {
     "documents": 42,
-    "ungrounded_rate": 0.0422,
-    "ungrounded_count": 13,
-    "grounded_checks": 308
+    "ungrounded_rate": 0.0554,
+    "ungrounded_count": 17,
+    "grounded_checks": 307
   }
 }
