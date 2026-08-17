@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0000899923_000089992324000018_phasei-leaseterminationagr",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-UT",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 12330
+  },
+  "notes": "",
+  "fields": {
+    "landlord_name": "Michael Dorris",
+    "tenant_name": "R. Bryan Giffsbee",
+    "property_address": "320 Wakara Way, Salt Lake City, Utah",
+    "property_type": "Commercial",
+    "premises_area_sqft": "48,483",
+    "lease_start_date": "February 3, 2016",
+    "lease_end_date": "December 31, 2025",
+    "term_length_months": "None",
+    "base_rent_amount": "None",
+    "rent_frequency": "None"
+  }
+}

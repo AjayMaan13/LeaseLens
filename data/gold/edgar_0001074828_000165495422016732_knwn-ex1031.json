@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001074828_000165495422016732_knwn-ex1031",
+  "source": "edgar",
+  "slices": {
+    "property_type": "residential",
+    "region": "US-CA",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 19622
+  },
+  "notes": "",
+  "fields": {
+    "landlord_name": "Phil Bosua",
+    "tenant_name": "Ron Erickson",
+    "property_address": "58969 Carmelita Circle, Yucca Valley, CA",
+    "property_type": "residendial",
+    "premises_area_sqft": "2134",
+    "lease_start_date": "September 1, 2021",
+    "lease_end_date": "September 30, 2023",
+    "term_length_months": "25",
+    "base_rent_amount": "91500",
+    "rent_frequency": "Monthly"
+  }
+}

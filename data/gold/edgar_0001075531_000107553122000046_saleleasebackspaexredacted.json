@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001075531_000107553122000046_saleleasebackspaexredacted",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 84552
+  },
+  "notes": "",
+  "fields": {
+    "landlord_name": "Dirk Holder",
+    "tenant_name": "Maria Rocha Barros",
+    "property_address": null,
+    "property_type": "Commercial",
+    "premises_area_sqft": null,
+    "lease_start_date": "December 14, 2022",
+    "lease_end_date": null,
+    "term_length_months": null,
+    "base_rent_amount": "1631422.27",
+    "rent_frequency": "Yearly"
+  }
+}

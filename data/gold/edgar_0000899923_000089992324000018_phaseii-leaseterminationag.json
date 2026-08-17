@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0000899923_000089992324000018_phaseii-leaseterminationag",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-UT",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 12021
+  },
+  "notes": "",
+  "fields": {
+    "landlord_name": "Michael Dorris",
+    "tenant_name": "R. Bryan Riggsbee",
+    "property_address": "320 Wakara Way, Salt Lake City, Utah",
+    "property_type": "commercial",
+    "premises_area_sqft": "48635",
+    "lease_start_date": "February 3, 2016",
+    "lease_end_date": "December 18, 2023",
+    "term_length_months": null,
+    "base_rent_amount": "none",
+    "rent_frequency": "None"
+  }
+}

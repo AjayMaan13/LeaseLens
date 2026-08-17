@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0000895464_000164033423000632_yubo-ex101",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "None",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 33351
+  },
+  "notes": "",
+  "fields": {
+    "landlord_name": "Wang Yang",
+    "tenant_name": "Yubo Jingzhi Biotechnology (Chengdu) Co., Ltd",
+    "property_address": "None",
+    "property_type": "Commercial",
+    "premises_area_sqft": "1282.34",
+    "lease_start_date": "September 1, 2021",
+    "lease_end_date": "February 28, 2026",
+    "term_length_months": "54",
+    "base_rent_amount": "330,844",
+    "rent_frequency": "Annually"
+  }
+}

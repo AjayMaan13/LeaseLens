@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001131312_000121390024024404_f10k2023ex10-4-zionoil",
+  "source": "edgar",
+  "slices": {
+    "property_type": "residential",
+    "region": "US-TX",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 15715
+  },
+  "notes": "",
+  "fields": {
+    "landlord_name": "Dan Jones",
+    "tenant_name": "William H. Avery",
+    "property_address": "12655 N. Central Expressway, Dallas, Texas 75243",
+    "property_type": "residential",
+    "premises_area_sqft": "8774",
+    "lease_start_date": "June 1, 2023",
+    "lease_end_date": "December 31, 2024",
+    "term_length_months": "19",
+    "base_rent_amount": "7677.25",
+    "rent_frequency": null
+  }
+}

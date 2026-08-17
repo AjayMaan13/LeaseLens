@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0000768835_000076883523000091_ex102biglotslease",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-CA",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 161496
+  },
+  "notes": "",
+  "fields": {
+    "landlord_name": "Benjamin Clark",
+    "tenant_name": "Jonathon E. Ramsden",
+    "property_address": "445 S. Figueroa Street, 14 th Floor, Los Angeles, California 90071",
+    "property_type": null,
+    "premises_area_sqft": null,
+    "lease_start_date": "March 15, 2023",
+    "lease_end_date": "2028",
+    "term_length_months": "60",
+    "base_rent_amount": "None",
+    "rent_frequency": "None"
+  }
+}

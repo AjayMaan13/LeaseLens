@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0000879911_000121390023051014_ea180790ex10-1-applied",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "None",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 3767
+  },
+  "notes": "",
+  "fields": {
+    "landlord_name": "Sheri L. Hill",
+    "tenant_name": "Kathryn B. Nelson",
+    "property_address": "None",
+    "property_type": "Industrial",
+    "premises_area_sqft": "None",
+    "lease_start_date": "July 30, 2007",
+    "lease_end_date": "July 31, 2033",
+    "term_length_months": "300",
+    "base_rent_amount": "None",
+    "rent_frequency": "None"
+  }
+}

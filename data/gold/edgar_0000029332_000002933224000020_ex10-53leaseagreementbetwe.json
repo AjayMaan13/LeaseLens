@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0000029332_000002933224000020_ex10-53leaseagreementbetwe",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-GA",
+    "urbanicity": "urban",
+    "scanned": false,
+    "doc_chars": 108858
+  },
+  "notes": "",
+  "fields": {
+    "landlord_name": "Kamyar Mateen",
+    "tenant_name": "Allen L. Danzey",
+    "property_address": "400 Princeton Boulevard, Adairsville, Gerogia 30103",
+    "property_type": "commercial",
+    "premises_area_sqft": "294,020",
+    "lease_start_date": "December, 2023",
+    "lease_end_date": "December, 2033",
+    "term_length_months": "120",
+    "base_rent_amount": "1495660.00",
+    "rent_frequency": "Monthly"
+  }
+}

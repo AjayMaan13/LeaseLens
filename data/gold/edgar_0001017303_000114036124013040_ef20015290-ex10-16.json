@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001017303_000114036124013040_ef20015290-ex10-16",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 54438
+  },
+  "notes": "",
+  "fields": {
+    "landlord_name": "Robert T. Dean",
+    "tenant_name": "Richard L. Cote",
+    "property_address": "None",
+    "property_type": "Commercial",
+    "premises_area_sqft": "73887",
+    "lease_start_date": "July 18, 2001",
+    "lease_end_date": null,
+    "term_length_months": "120",
+    "base_rent_amount": "517,208",
+    "rent_frequency": "Monthly"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001095315_000109531522000095_freeportlease-pfswebexecut",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-TX",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 178922
+  },
+  "notes": "",
+  "fields": {
+    "landlord_name": "Chad Parrish",
+    "tenant_name": "Zach Thomann",
+    "property_address": "4401 Regent Boulevard, Irving, Texas 75063",
+    "property_type": "Commercial",
+    "premises_area_sqft": "186900",
+    "lease_start_date": "July 1, 2023",
+    "lease_end_date": null,
+    "term_length_months": "124",
+    "base_rent_amount": "166,652.50",
+    "rent_frequency": null
+  }
+}

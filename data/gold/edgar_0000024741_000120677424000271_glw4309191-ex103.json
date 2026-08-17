@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0000024741_000120677424000271_glw4309191-ex103",
+  "source": "edgar",
+  "slices": {
+    "property_type": "residential",
+    "region": "US-MI",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 173336
+  },
+  "notes": "",
+  "fields": {
+    "landlord_name": "Erin M. Parks",
+    "tenant_name": "Scott A.Forester",
+    "property_address": "Town 12 North, Range 2 East, Richland Township, Saginaw County, Michigan.",
+    "property_type": "residential",
+    "premises_area_sqft": "None",
+    "lease_start_date": "None",
+    "lease_end_date": "None",
+    "term_length_months": "None",
+    "base_rent_amount": "None",
+    "rent_frequency": "Monthly"
+  }
+}

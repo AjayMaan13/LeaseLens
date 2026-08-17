@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001279620_000121390022077621_ea169621ex10-3-zonedpro",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-MI",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 155300
+  },
+  "notes": "",
+  "fields": {
+    "landlord_name": "Bryan McLaren",
+    "tenant_name": "Thomas naffs",
+    "property_address": "23600, 23616 and 23622, and 23634 Woodward Ave, Pleasant Ridge. MI 48069",
+    "property_type": "Commercial",
+    "premises_area_sqft": "5172",
+    "lease_start_date": "December 2022",
+    "lease_end_date": null,
+    "term_length_months": "180",
+    "base_rent_amount": "40,318.82",
+    "rent_frequency": "Monthly"
+  }
+}

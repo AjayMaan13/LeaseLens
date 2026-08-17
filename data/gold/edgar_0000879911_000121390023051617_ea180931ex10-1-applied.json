@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0000879911_000121390023051617_ea180931ex10-1-applied",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-AR",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 5453
+  },
+  "notes": "",
+  "fields": {
+    "landlord_name": "Mary Jacobs",
+    "tenant_name": "Gregory J.Quarles",
+    "property_address": "None",
+    "property_type": "Commercial",
+    "premises_area_sqft": "8375, 9805",
+    "lease_start_date": "August 1, 2023",
+    "lease_end_date": "July 31, 2028",
+    "term_length_months": "60",
+    "base_rent_amount": "7435.46",
+    "rent_frequency": "Monthly"
+  }
+}

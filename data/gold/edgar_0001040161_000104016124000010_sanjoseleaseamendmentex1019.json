@@ -1,0 +1,24 @@
+{
+  "doc_id": "edgar_0001040161_000104016124000010_sanjoseleaseamendmentex1019",
+  "source": "edgar",
+  "slices": {
+    "property_type": "commercial",
+    "region": "US-CA",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 34070
+  },
+  "notes": "",
+  "fields": {
+    "landlord_name": "Kenneth Young",
+    "tenant_name": "Haley Aman",
+    "property_address": "226 Airport Parkway, San Jose, California",
+    "property_type": "Comercial",
+    "premises_area_sqft": "10051",
+    "lease_start_date": "October 2024",
+    "lease_end_date": "November 2027",
+    "term_length_months": null,
+    "base_rent_amount": "22568",
+    "rent_frequency": "Monthly"
+  }
+}
