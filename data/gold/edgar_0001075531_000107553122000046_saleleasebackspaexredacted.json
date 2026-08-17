@@ -8,10 +8,10 @@
     "scanned": false,
     "doc_chars": 84552
   },
-  "notes": "",
+  "notes": "CORRECTION 2026-08-15: previous values (Dirk Holder / Maria Rocha Barros) were signature-block names, not entities -- removed. This exhibit is a Sale and Purchase Agreement for a sale-leaseback (Booking.com Real Estate Amsterdam B.V. as Seller, D-IE Wiis Oosterdok Cooperatief U.A. as Purchaser, Booking.com Holding B.V. as Guarantor) -- not structured as Landlord/Tenant in this document. Set to null pending a human read of the full document to locate the actual lease terms (uncertain: true).",
   "fields": {
-    "landlord_name": "Dirk Holder",
-    "tenant_name": "Maria Rocha Barros",
+    "landlord_name": null,
+    "tenant_name": null,
     "property_address": null,
     "property_type": "Commercial",
     "premises_area_sqft": null,

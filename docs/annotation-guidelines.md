@@ -105,6 +105,18 @@ absent lease) → these were excluded during Phase 2 ingestion review
 all. If one slips through, label all fields `null` and note
 `"out of scope: <reason>"` rather than silently skipping the document.
 
+**4.9 Signatory vs. named entity** (found during Phase 5 evaluation — 14 of
+the first 15 labelled documents had this error, see
+`docs/label-changelog.md`) → `landlord_name`/`tenant_name` are the **party
+named in the opening paragraph** ("this Agreement, made between LANDLORD
+CO. LLC and TENANT INC."), never the individual who signs on that party's
+behalf near the signature block ("By: _____, its Manager"). A signature
+block name is evidence of *who signed*, not *who the party is*. When the
+landlord/tenant is itself an individual (rare but real — e.g. a residential
+sublease), the person's name is correct; the test is whether the opening
+paragraph names a person or a company, not whether the value looks like a
+person's name.
+
 ## 5. Slice attributes (not extracted — analysis only)
 Recorded outside `fields`, in `slices`. The model never sees these; they
 exist only for the Phase 6 bias audit.
