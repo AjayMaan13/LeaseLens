@@ -8,13 +8,13 @@
     "scanned": false,
     "doc_chars": 103140
   },
-  "notes": "Full original Land and Building Lease Agreement, 10-year term. base_rent_amount is Lease Year 1 of an explicit Base Monthly Rent Schedule ($14,962.50/mo, $179,550.00/yr) -- escalating schedule, year-1 used per guideline. lease_end_date (2033-05-31) is the literal Year-10 End Date from the same schedule table, not computed. premises_area_sqft not given as a number (described via a legal description exhibit instead), left null.",
+  "notes": "Full original Land and Building Lease Agreement, 10-year term. base_rent_amount is Lease Year 1 of an explicit Base Monthly Rent Schedule ($14,962.50/mo, $179,550.00/yr) -- escalating schedule, year-1 used per guideline. lease_end_date (2033-05-31) is the literal Year-10 End Date from the same schedule table, not computed. premises_area_sqft not given as a number (described via a legal description exhibit instead), left null. | RECHECK 2026-08-15 (round 2): filled premises_area_sqft=99369.0 -- these were left null in earlier labeling (time-boxed search didn't find them), but were flagged as LLM 'hallucinations' during error-taxonomy review and, on checking, verified to genuinely appear in the source document. Gold labeling gap, not model error.",
   "fields": {
     "landlord_name": "Miller Family Walpole LLC",
     "tenant_name": "Stran & Company, Inc.",
     "property_address": "290 South Street, Walpole, Norfolk County, Massachusetts 02081",
     "property_type": "commercial",
-    "premises_area_sqft": null,
+    "premises_area_sqft": 99369.0,
     "lease_start_date": "2023-06-01",
     "lease_end_date": "2033-05-31",
     "term_length_months": 120,

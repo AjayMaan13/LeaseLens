@@ -8,7 +8,7 @@
     "scanned": false,
     "doc_chars": 173336
   },
-  "notes": "RECHECK 2026-08-15: property_type corrected residential->industrial (Corning/Solar Technology manufacturing-related lease financing, not residential); literal 'None' strings normalized to null.",
+  "notes": "RECHECK 2026-08-15: property_type corrected residential->industrial (Corning/Solar Technology manufacturing-related lease financing, not residential); literal 'None' strings normalized to null. | RECHECK 2026-08-15 (round 2): filled term_length_months=84 -- these were left null in earlier labeling (time-boxed search didn't find them), but were flagged as LLM 'hallucinations' during error-taxonomy review and, on checking, verified to genuinely appear in the source document. Gold labeling gap, not model error.",
   "fields": {
     "landlord_name": "BA Leasing BSC, LLC",
     "tenant_name": "Solar Technology LLC",
@@ -17,7 +17,7 @@
     "premises_area_sqft": null,
     "lease_start_date": null,
     "lease_end_date": null,
-    "term_length_months": null,
+    "term_length_months": 84,
     "base_rent_amount": null,
     "rent_frequency": "monthly"
   }

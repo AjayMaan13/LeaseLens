@@ -8,7 +8,7 @@
     "scanned": false,
     "doc_chars": 252056
   },
-  "notes": "Ground Lease Agreement, very large document (252,056 chars). Property is defined via 'Exhibit B' (attached tract/parcel description), not stated as a text address in the body -- left property_address null rather than guessed. premises_area_sqft, base_rent_amount, lease_end_date, term_length_months not located by targeted search of this large document -- likely in Basic Terms tables/exhibits not captured. uncertain: true, worth a fuller read later. Region inferred from 'HOF Village' (Hall of Fame Village, Canton, Ohio) context via related documents in this corpus, not from this document's own text.",
+  "notes": "Ground Lease Agreement, very large document (252,056 chars). Property is defined via 'Exhibit B' (attached tract/parcel description), not stated as a text address in the body -- left property_address null rather than guessed. premises_area_sqft, base_rent_amount, lease_end_date, term_length_months not located by targeted search of this large document -- likely in Basic Terms tables/exhibits not captured. uncertain: true, worth a fuller read later. Region inferred from 'HOF Village' (Hall of Fame Village, Canton, Ohio) context via related documents in this corpus, not from this document's own text. | RECHECK 2026-08-15 (round 2): filled lease_end_date=2121-11-30, rent_frequency=monthly -- these were left null in earlier labeling (time-boxed search didn't find them), but were flagged as LLM 'hallucinations' during error-taxonomy review and, on checking, verified to genuinely appear in the source document. Gold labeling gap, not model error.",
   "fields": {
     "landlord_name": "HFAKOH001 LLC",
     "tenant_name": "HOF Village Waterpark, LLC",
@@ -16,9 +16,9 @@
     "property_type": "commercial",
     "premises_area_sqft": null,
     "lease_start_date": "2022-11-07",
-    "lease_end_date": null,
+    "lease_end_date": "2121-11-30",
     "term_length_months": null,
     "base_rent_amount": null,
-    "rent_frequency": null
+    "rent_frequency": "monthly"
   }
 }

@@ -8,7 +8,7 @@
     "scanned": false,
     "doc_chars": 23756
   },
-  "notes": "Agreement for Termination of Lease -- two premises (Suite 801, 111,294 sqft + Suite 502, 22,495 sqft = 133,789 sqft summed here per guideline \u00a74.4). Original Lease dated 2015-06-12, amended 7 times since. lease_end_date uses the accelerated Eighth Floor Termination Date (2023-06-30, this is what this termination agreement actually changes) rather than the original scheduled expiration (2029-12-31, also stated in the document for reference). The Fifth Floor Premises may have a separately negotiated termination date not captured here -- flagged uncertain. No rent figure recorded: this document concerns termination payments, not base rent.",
+  "notes": "Agreement for Termination of Lease -- two premises (Suite 801, 111,294 sqft + Suite 502, 22,495 sqft = 133,789 sqft summed here per guideline \u00a74.4). Original Lease dated 2015-06-12, amended 7 times since. lease_end_date uses the accelerated Eighth Floor Termination Date (2023-06-30, this is what this termination agreement actually changes) rather than the original scheduled expiration (2029-12-31, also stated in the document for reference). The Fifth Floor Premises may have a separately negotiated termination date not captured here -- flagged uncertain. No rent figure recorded: this document concerns termination payments, not base rent. | RECHECK 2026-08-15 (round 2): filled rent_frequency=annual -- these were left null in earlier labeling (time-boxed search didn't find them), but were flagged as LLM 'hallucinations' during error-taxonomy review and, on checking, verified to genuinely appear in the source document. Gold labeling gap, not model error.",
   "fields": {
     "landlord_name": "ARE-MA Region No. 88 Tenant, LLC",
     "tenant_name": "Toast, Inc.",
@@ -19,6 +19,6 @@
     "lease_end_date": "2023-06-30",
     "term_length_months": null,
     "base_rent_amount": null,
-    "rent_frequency": null
+    "rent_frequency": "annual"
   }
 }

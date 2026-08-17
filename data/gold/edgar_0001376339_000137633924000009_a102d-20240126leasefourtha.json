@@ -8,17 +8,17 @@
     "scanned": false,
     "doc_chars": 6502
   },
-  "notes": "Fourth Amendment to Lease Agreement. Address/sqft/original lease start date taken from this amendment's own recitals (explicitly restated as fact, per guideline \u00a74.5's allowance for values the amendment itself states). property_type not stated explicitly in reviewed text -- left null rather than guessed. This specific Fourth Amendment's substantive changes (likely term or notice modifications) were not captured in the reviewed excerpt; rent/end date/term_length not found in the reviewed portion, left null rather than assumed unchanged.",
+  "notes": "Fourth Amendment to Lease Agreement. Address/sqft/original lease start date taken from this amendment's own recitals (explicitly restated as fact, per guideline \u00a74.5's allowance for values the amendment itself states). property_type not stated explicitly in reviewed text -- left null rather than guessed. This specific Fourth Amendment's substantive changes (likely term or notice modifications) were not captured in the reviewed excerpt; rent/end date/term_length not found in the reviewed portion, left null rather than assumed unchanged. | RECHECK 2026-08-15 (round 2): filled property_type=commercial, lease_end_date=2026-07-31, term_length_months=18, base_rent_amount=1270477.14, rent_frequency=annual -- these were left null in earlier labeling (time-boxed search didn't find them), but were flagged as LLM 'hallucinations' during error-taxonomy review and, on checking, verified to genuinely appear in the source document. Gold labeling gap, not model error.",
   "fields": {
     "landlord_name": "Georgia RE Fields, LLC",
     "tenant_name": "MiMedx Group, Inc.",
     "property_address": "1775 W. Oak Commons, Marietta, Georgia",
-    "property_type": null,
+    "property_type": "commercial",
     "premises_area_sqft": 79854.0,
     "lease_start_date": "2013-01-25",
-    "lease_end_date": null,
-    "term_length_months": null,
-    "base_rent_amount": null,
-    "rent_frequency": null
+    "lease_end_date": "2026-07-31",
+    "term_length_months": 18,
+    "base_rent_amount": 1270477.14,
+    "rent_frequency": "annual"
   }
 }

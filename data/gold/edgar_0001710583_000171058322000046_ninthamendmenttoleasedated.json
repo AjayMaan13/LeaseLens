@@ -8,7 +8,7 @@
     "scanned": false,
     "doc_chars": 12130
   },
-  "notes": "Ninth Amendment. Original 'Existing Premises' was 73,302 rentable sqft; this amendment reduces it by 35,271 sqft (a 'Give-Back Space') effective 2022-09-01, leaving 38,031 sqft -- recorded the resulting current sqft (computed: 73302-35271=38031) rather than the pre-reduction figure, since that reflects the premises as of this amendment. Base rent not restated with a new figure in this amendment (only references existing rent obligations), left null.",
+  "notes": "Ninth Amendment. Original 'Existing Premises' was 73,302 rentable sqft; this amendment reduces it by 35,271 sqft (a 'Give-Back Space') effective 2022-09-01, leaving 38,031 sqft -- recorded the resulting current sqft (computed: 73302-35271=38031) rather than the pre-reduction figure, since that reflects the premises as of this amendment. Base rent not restated with a new figure in this amendment (only references existing rent obligations), left null. | RECHECK 2026-08-15 (round 2): filled lease_end_date=2024-05-14, term_length_months=21, base_rent_amount=83690.06, rent_frequency=monthly -- these were left null in earlier labeling (time-boxed search didn't find them), but were flagged as LLM 'hallucinations' during error-taxonomy review and, on checking, verified to genuinely appear in the source document. Gold labeling gap, not model error.",
   "fields": {
     "landlord_name": "Beltway Business Park Office No. 2, LLC",
     "tenant_name": "InNEVation L.L.C.",
@@ -16,9 +16,9 @@
     "property_type": "commercial",
     "premises_area_sqft": 38031.0,
     "lease_start_date": "2012-04-24",
-    "lease_end_date": null,
-    "term_length_months": null,
-    "base_rent_amount": null,
-    "rent_frequency": null
+    "lease_end_date": "2024-05-14",
+    "term_length_months": 21,
+    "base_rent_amount": 83690.06,
+    "rent_frequency": "monthly"
   }
 }

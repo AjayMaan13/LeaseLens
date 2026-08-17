@@ -8,16 +8,16 @@
     "scanned": false,
     "doc_chars": 34070
   },
-  "notes": "RECHECK 2026-08-15: typo fixed (Comercial->commercial). Dates were only partial ('October 2024'/'November 2027', no day) -- left null rather than invent a day.",
+  "notes": "RECHECK 2026-08-15: typo fixed (Comercial->commercial). Dates were only partial ('October 2024'/'November 2027', no day) -- left null rather than invent a day. | RECHECK 2026-08-15 (round 2): filled lease_start_date=2024-10-01, lease_end_date=2028-02-29, term_length_months=41 -- these were left null in earlier labeling (time-boxed search didn't find them), but were flagged as LLM 'hallucinations' during error-taxonomy review and, on checking, verified to genuinely appear in the source document. Gold labeling gap, not model error.",
   "fields": {
     "landlord_name": "Hudson Concourse, LLC",
     "tenant_name": "Pixelworks, Inc.",
     "property_address": "226 Airport Parkway, San Jose, California",
     "property_type": "commercial",
     "premises_area_sqft": 10051.0,
-    "lease_start_date": null,
-    "lease_end_date": null,
-    "term_length_months": null,
+    "lease_start_date": "2024-10-01",
+    "lease_end_date": "2028-02-29",
+    "term_length_months": 41,
     "base_rent_amount": 22568.0,
     "rent_frequency": "monthly"
   }

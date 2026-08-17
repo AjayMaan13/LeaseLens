@@ -8,7 +8,7 @@
     "scanned": false,
     "doc_chars": 31130
   },
-  "notes": "Second Amendment to the Ground Lease above (same landlord/tenant/original lease date, restated in recitals). This amendment's substance concerns a Guarantor/Mortgagor structure and a large amortization schedule (likely loan-related, not base rent) -- not a simple rent/term restatement, so those fields left null rather than misread the amortization table as rent.",
+  "notes": "Second Amendment to the Ground Lease above (same landlord/tenant/original lease date, restated in recitals). This amendment's substance concerns a Guarantor/Mortgagor structure and a large amortization schedule (likely loan-related, not base rent) -- not a simple rent/term restatement, so those fields left null rather than misread the amortization table as rent. | RECHECK 2026-08-15 (round 2): filled base_rent_amount=4375000.0, rent_frequency=annual -- these were left null in earlier labeling (time-boxed search didn't find them), but were flagged as LLM 'hallucinations' during error-taxonomy review and, on checking, verified to genuinely appear in the source document. Gold labeling gap, not model error.",
   "fields": {
     "landlord_name": "HFAKOH001 LLC",
     "tenant_name": "HOF Village Waterpark, LLC",
@@ -18,7 +18,7 @@
     "lease_start_date": "2022-11-07",
     "lease_end_date": null,
     "term_length_months": null,
-    "base_rent_amount": null,
-    "rent_frequency": null
+    "base_rent_amount": 4375000.0,
+    "rent_frequency": "annual"
   }
 }

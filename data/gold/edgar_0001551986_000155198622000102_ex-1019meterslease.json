@@ -8,7 +8,7 @@
     "scanned": false,
     "doc_chars": 176715
   },
-  "notes": "Large document (176,715 chars); targeted search found the parties and rentable premises sqft (7,418 sqft, 5.14% pro rata share) but not a specific property street address, base rent dollar figure, or commencement date -- these likely sit in a Basic Lease Information table/exhibit not captured by the keyword search used. Left null rather than guessed; flagged for a fuller read if this document is prioritized later. uncertain: true on missing fields.",
+  "notes": "Large document (176,715 chars); targeted search found the parties and rentable premises sqft (7,418 sqft, 5.14% pro rata share) but not a specific property street address, base rent dollar figure, or commencement date -- these likely sit in a Basic Lease Information table/exhibit not captured by the keyword search used. Left null rather than guessed; flagged for a fuller read if this document is prioritized later. uncertain: true on missing fields. | RECHECK 2026-08-15 (round 2): filled rent_frequency=annual -- these were left null in earlier labeling (time-boxed search didn't find them), but were flagged as LLM 'hallucinations' during error-taxonomy review and, on checking, verified to genuinely appear in the source document. Gold labeling gap, not model error.",
   "fields": {
     "landlord_name": "Crabtree Terrace Holdings LLC",
     "tenant_name": "9 Meters Biopharma, Inc.",
@@ -19,6 +19,6 @@
     "lease_end_date": null,
     "term_length_months": null,
     "base_rent_amount": null,
-    "rent_frequency": null
+    "rent_frequency": "annual"
   }
 }

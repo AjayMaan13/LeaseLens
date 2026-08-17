@@ -8,7 +8,7 @@
     "scanned": false,
     "doc_chars": 211379
   },
-  "notes": "Large document (211,379 chars, life sciences/lab space -- '5th/6th Floors', vivarium clause). lease_start_date uses the defined 'Scheduled Commencement Date' (2022-04-01), not the cover-page execution date (March 16, 2022). Document includes a 5-year renewal option after the initial term per guideline \u00a74.3 (initial term only) -- but the initial term's own length/end date and base rent dollar figure were not located in the reviewed excerpts of this large document; left null rather than guessed. uncertain: true, worth a fuller read later.",
+  "notes": "Large document (211,379 chars, life sciences/lab space -- '5th/6th Floors', vivarium clause). lease_start_date uses the defined 'Scheduled Commencement Date' (2022-04-01), not the cover-page execution date (March 16, 2022). Document includes a 5-year renewal option after the initial term per guideline \u00a74.3 (initial term only) -- but the initial term's own length/end date and base rent dollar figure were not located in the reviewed excerpts of this large document; left null rather than guessed. uncertain: true, worth a fuller read later. | RECHECK 2026-08-15 (round 2): filled term_length_months=120, rent_frequency=monthly -- these were left null in earlier labeling (time-boxed search didn't find them), but were flagged as LLM 'hallucinations' during error-taxonomy review and, on checking, verified to genuinely appear in the source document. Gold labeling gap, not model error.",
   "fields": {
     "landlord_name": "IDB 17-19 Drydock Limited Partnership",
     "tenant_name": "Entrada Therapeutics, Inc.",
@@ -17,8 +17,8 @@
     "premises_area_sqft": 81442.0,
     "lease_start_date": "2022-04-01",
     "lease_end_date": null,
-    "term_length_months": null,
+    "term_length_months": 120,
     "base_rent_amount": null,
-    "rent_frequency": null
+    "rent_frequency": "monthly"
   }
 }

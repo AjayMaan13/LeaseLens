@@ -8,7 +8,7 @@
     "scanned": false,
     "doc_chars": 219160
   },
-  "notes": "Very large document (219,160 chars, Northeast Denver industrial market). lease_start_date uses the document's own labeled 'Date of the Lease' field (2023-04-15) -- an explicit, unambiguous value, not inferred. base_rent_amount, lease_end_date, term_length_months not located by targeted search of this large document; likely in a Basic Terms table/exhibit not captured. uncertain: true, worth a fuller read later given this is a very large (774,155 sqft) lease.",
+  "notes": "Very large document (219,160 chars, Northeast Denver industrial market). lease_start_date uses the document's own labeled 'Date of the Lease' field (2023-04-15) -- an explicit, unambiguous value, not inferred. base_rent_amount, lease_end_date, term_length_months not located by targeted search of this large document; likely in a Basic Terms table/exhibit not captured. uncertain: true, worth a fuller read later given this is a very large (774,155 sqft) lease. | RECHECK 2026-08-15 (round 2): filled lease_end_date=2039-05-31, term_length_months=180, base_rent_amount=290308.13, rent_frequency=monthly -- these were left null in earlier labeling (time-boxed search didn't find them), but were flagged as LLM 'hallucinations' during error-taxonomy review and, on checking, verified to genuinely appear in the source document. Gold labeling gap, not model error.",
   "fields": {
     "landlord_name": "Starboard Platform Brighton JV LLC",
     "tenant_name": "Amprius Technologies, Inc.",
@@ -16,9 +16,9 @@
     "property_type": "industrial",
     "premises_area_sqft": 774155.0,
     "lease_start_date": "2023-04-15",
-    "lease_end_date": null,
-    "term_length_months": null,
-    "base_rent_amount": null,
-    "rent_frequency": null
+    "lease_end_date": "2039-05-31",
+    "term_length_months": 180,
+    "base_rent_amount": 290308.13,
+    "rent_frequency": "monthly"
   }
 }

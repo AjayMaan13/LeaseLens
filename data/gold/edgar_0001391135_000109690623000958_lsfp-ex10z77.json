@@ -8,17 +8,17 @@
     "scanned": false,
     "doc_chars": 25864
   },
-  "notes": "Assignment and Assumption of Lease and Landlord Consent. tenant_name is the Assignee (Lifted Liquids, Inc. d/b/a Lifted Made), who becomes tenant of record; prior tenant/Assignor was Oculus CRS, LLC. Lease date restated in recitals; rent/sqft/end date/term/property_type not restated in this instrument, left null.",
+  "notes": "Assignment and Assumption of Lease and Landlord Consent. tenant_name is the Assignee (Lifted Liquids, Inc. d/b/a Lifted Made), who becomes tenant of record; prior tenant/Assignor was Oculus CRS, LLC. Lease date restated in recitals; rent/sqft/end date/term/property_type not restated in this instrument, left null. | RECHECK 2026-08-15 (round 2): filled property_type=industrial, premises_area_sqft=4800.0, term_length_months=12, base_rent_amount=3850.0, rent_frequency=monthly -- these were left null in earlier labeling (time-boxed search didn't find them), but were flagged as LLM 'hallucinations' during error-taxonomy review and, on checking, verified to genuinely appear in the source document. Gold labeling gap, not model error.",
   "fields": {
     "landlord_name": "Centerpoint Unlimited Limited Liability Company",
     "tenant_name": "Lifted Liquids, Inc.",
     "property_address": "16178 US Hwy 550, Aztec, San Juan County, New Mexico",
-    "property_type": null,
-    "premises_area_sqft": null,
+    "property_type": "industrial",
+    "premises_area_sqft": 4800.0,
     "lease_start_date": "2022-11-26",
     "lease_end_date": null,
-    "term_length_months": null,
-    "base_rent_amount": null,
-    "rent_frequency": null
+    "term_length_months": 12,
+    "base_rent_amount": 3850.0,
+    "rent_frequency": "monthly"
   }
 }

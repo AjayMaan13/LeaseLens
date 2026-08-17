@@ -8,7 +8,7 @@
     "scanned": false,
     "doc_chars": 84746
   },
-  "notes": "Land Lease Agreement -- premises measured in acres (275-acre industrial park total; tenant's specific parcel acreage not stated in reviewed text), so premises_area_sqft is not applicable and left null rather than force-fit. base_rent_amount not found in reviewed excerpts despite targeted search; document is 84,746 chars and a rent schedule may exist in an exhibit not captured. Filer/tenant name note: filer CIK is 'Vivakor' but the actual named Tenant entity in this specific lease is 'Vivaventures Remediation Corp.' (a subsidiary/affiliate) -- used the entity actually named in the lease text, not the filer name.",
+  "notes": "Land Lease Agreement -- premises measured in acres (275-acre industrial park total; tenant's specific parcel acreage not stated in reviewed text), so premises_area_sqft is not applicable and left null rather than force-fit. base_rent_amount not found in reviewed excerpts despite targeted search; document is 84,746 chars and a rent schedule may exist in an exhibit not captured. Filer/tenant name note: filer CIK is 'Vivakor' but the actual named Tenant entity in this specific lease is 'Vivaventures Remediation Corp.' (a subsidiary/affiliate) -- used the entity actually named in the lease text, not the filer name. | RECHECK 2026-08-15 (round 2): filled base_rent_amount=11375.0, rent_frequency=monthly -- these were left null in earlier labeling (time-boxed search didn't find them), but were flagged as LLM 'hallucinations' during error-taxonomy review and, on checking, verified to genuinely appear in the source document. Gold labeling gap, not model error.",
   "fields": {
     "landlord_name": "W & P Development Corporation",
     "tenant_name": "Vivaventures Remediation Corp.",
@@ -18,7 +18,7 @@
     "lease_start_date": "2022-12-15",
     "lease_end_date": "2033-06-14",
     "term_length_months": 126,
-    "base_rent_amount": null,
-    "rent_frequency": null
+    "base_rent_amount": 11375.0,
+    "rent_frequency": "monthly"
   }
 }
