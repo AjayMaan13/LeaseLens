@@ -1,0 +1,20 @@
+{
+  "regex_baseline": {
+    "documents": 42,
+    "ungrounded_rate": 0.0,
+    "ungrounded_count": 0,
+    "grounded_checks": 174
+  },
+  "ner_hybrid": {
+    "documents": 42,
+    "ungrounded_rate": 0.024,
+    "ungrounded_count": 3,
+    "grounded_checks": 125
+  },
+  "llm_structured": {
+    "documents": 42,
+    "ungrounded_rate": 0.0422,
+    "ungrounded_count": 13,
+    "grounded_checks": 308
+  }
+}
