@@ -1,0 +1,24 @@
+{
+  "doc_id": "synth_ontario_021",
+  "source": "synthetic",
+  "slices": {
+    "property_type": "residential",
+    "region": "CA-ON",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 257
+  },
+  "notes": "synthetic; money_style=1 date_style=0 rent_label='Total Rent Per Month' noisy=False",
+  "fields": {
+    "landlord_name": "Jack Walton",
+    "tenant_name": "Ashley Harmon",
+    "property_address": "96176 Lisa River Suite 066, Rhondafurt, LA 11037",
+    "property_type": "residential",
+    "premises_area_sqft": null,
+    "lease_start_date": "2024-05-01",
+    "lease_end_date": "2026-04-21",
+    "term_length_months": 24,
+    "base_rent_amount": 1450.0,
+    "rent_frequency": "monthly"
+  }
+}

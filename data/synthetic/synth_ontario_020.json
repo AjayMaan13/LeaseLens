@@ -1,0 +1,24 @@
+{
+  "doc_id": "synth_ontario_020",
+  "source": "synthetic",
+  "slices": {
+    "property_type": "residential",
+    "region": "CA-ON",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 247
+  },
+  "notes": "synthetic; money_style=0 date_style=2 rent_label='Total Rent Per Month' noisy=False",
+  "fields": {
+    "landlord_name": "Cynthia Rivera",
+    "tenant_name": "Aaron Eaton",
+    "property_address": "7062 Crystal Dam, West Edward, MH 57686",
+    "property_type": "residential",
+    "premises_area_sqft": null,
+    "lease_start_date": "2024-04-01",
+    "lease_end_date": "2025-03-27",
+    "term_length_months": 12,
+    "base_rent_amount": 2200.0,
+    "rent_frequency": "monthly"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "synth_ontario_000",
+  "source": "synthetic",
+  "slices": {
+    "property_type": "residential",
+    "region": "CA-ON",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 327
+  },
+  "notes": "synthetic; money_style=2 date_style=1 rent_label='Rent Payable' noisy=True",
+  "fields": {
+    "landlord_name": "Michael Sutton",
+    "tenant_name": "Charlene Hall",
+    "property_address": "221 Julie Burgs, Martineztown, KY 19730",
+    "property_type": "residential",
+    "premises_area_sqft": null,
+    "lease_start_date": "2024-03-01",
+    "lease_end_date": "2026-02-19",
+    "term_length_months": 24,
+    "base_rent_amount": 1850.0,
+    "rent_frequency": "monthly"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "synth_ontario_004",
+  "source": "synthetic",
+  "slices": {
+    "property_type": "residential",
+    "region": "CA-ON",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 287
+  },
+  "notes": "synthetic; money_style=2 date_style=1 rent_label='Total Rent Per Month' noisy=False",
+  "fields": {
+    "landlord_name": "Miranda Lewis",
+    "tenant_name": "Lauren Garza",
+    "property_address": "43281 Gary Meadow Apt. 751, East Whitneyville, MT 40019",
+    "property_type": "residential",
+    "premises_area_sqft": null,
+    "lease_start_date": "2024-06-01",
+    "lease_end_date": "2025-05-27",
+    "term_length_months": 12,
+    "base_rent_amount": 2500.0,
+    "rent_frequency": "monthly"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "synth_ontario_018",
+  "source": "synthetic",
+  "slices": {
+    "property_type": "residential",
+    "region": "CA-ON",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 306
+  },
+  "notes": "synthetic; money_style=0 date_style=3 rent_label='Total Rent Per Month' noisy=True",
+  "fields": {
+    "landlord_name": "John Palmer",
+    "tenant_name": "Gregory Williams",
+    "property_address": "64643 Campbell Prairie, Knoxview, WA 94299",
+    "property_type": "residential",
+    "premises_area_sqft": null,
+    "lease_start_date": "2024-06-01",
+    "lease_end_date": "2025-05-27",
+    "term_length_months": 12,
+    "base_rent_amount": 1650.0,
+    "rent_frequency": "monthly"
+  }
+}

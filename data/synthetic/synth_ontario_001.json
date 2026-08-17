@@ -1,0 +1,24 @@
+{
+  "doc_id": "synth_ontario_001",
+  "source": "synthetic",
+  "slices": {
+    "property_type": "residential",
+    "region": "CA-ON",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 274
+  },
+  "notes": "synthetic; money_style=2 date_style=2 rent_label='Monthly Rent' noisy=False",
+  "fields": {
+    "landlord_name": "Robert Beasley",
+    "tenant_name": "Jerry Kim",
+    "property_address": "3789 Lambert Meadows Suite 159, Hannahside, RI 98596",
+    "property_type": "residential",
+    "premises_area_sqft": null,
+    "lease_start_date": "2024-05-01",
+    "lease_end_date": "2025-04-26",
+    "term_length_months": 12,
+    "base_rent_amount": 1450.0,
+    "rent_frequency": "monthly"
+  }
+}

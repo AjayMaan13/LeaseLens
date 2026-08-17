@@ -1,0 +1,24 @@
+{
+  "doc_id": "synth_ontario_010",
+  "source": "synthetic",
+  "slices": {
+    "property_type": "residential",
+    "region": "CA-ON",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 285
+  },
+  "notes": "synthetic; money_style=2 date_style=0 rent_label='Rent Payable' noisy=False",
+  "fields": {
+    "landlord_name": "Brandon Williams",
+    "tenant_name": "Nicholas Rodriguez",
+    "property_address": "6294 Daniel Inlet, Ferrellfort, MS 35596",
+    "property_type": "residential",
+    "premises_area_sqft": null,
+    "lease_start_date": "2024-06-01",
+    "lease_end_date": "2025-05-27",
+    "term_length_months": 12,
+    "base_rent_amount": 1850.0,
+    "rent_frequency": "monthly"
+  }
+}

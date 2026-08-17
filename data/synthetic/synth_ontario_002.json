@@ -1,0 +1,24 @@
+{
+  "doc_id": "synth_ontario_002",
+  "source": "synthetic",
+  "slices": {
+    "property_type": "residential",
+    "region": "CA-ON",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 268
+  },
+  "notes": "synthetic; money_style=1 date_style=1 rent_label='Total Rent Per Month' noisy=False",
+  "fields": {
+    "landlord_name": "Mrs. Monica Herrera",
+    "tenant_name": "Christopher Kelly",
+    "property_address": "462 Pierce Port Apt. 352, South Denisemouth, MS 00786",
+    "property_type": "residential",
+    "premises_area_sqft": null,
+    "lease_start_date": "2024-04-01",
+    "lease_end_date": "2026-03-22",
+    "term_length_months": 24,
+    "base_rent_amount": 1850.0,
+    "rent_frequency": "monthly"
+  }
+}

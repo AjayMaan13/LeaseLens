@@ -1,0 +1,24 @@
+{
+  "doc_id": "synth_ontario_008",
+  "source": "synthetic",
+  "slices": {
+    "property_type": "residential",
+    "region": "CA-ON",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 259
+  },
+  "notes": "synthetic; money_style=2 date_style=3 rent_label='Rent Payable' noisy=False",
+  "fields": {
+    "landlord_name": "Amber Jackson",
+    "tenant_name": "Nancy Barrera",
+    "property_address": "PSC 2175, Box 1543, APO AE 94659",
+    "property_type": "residential",
+    "premises_area_sqft": null,
+    "lease_start_date": "2024-05-01",
+    "lease_end_date": "2025-04-26",
+    "term_length_months": 12,
+    "base_rent_amount": 2500.0,
+    "rent_frequency": "monthly"
+  }
+}

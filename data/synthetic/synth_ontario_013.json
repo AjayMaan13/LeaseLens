@@ -1,0 +1,24 @@
+{
+  "doc_id": "synth_ontario_013",
+  "source": "synthetic",
+  "slices": {
+    "property_type": "residential",
+    "region": "CA-ON",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 248
+  },
+  "notes": "synthetic; money_style=1 date_style=1 rent_label='Total Rent Per Month' noisy=False",
+  "fields": {
+    "landlord_name": "Anthony Mason",
+    "tenant_name": "Deanna Tucker",
+    "property_address": "8809 Mcclain Junctions, New Brent, UT 56493",
+    "property_type": "residential",
+    "premises_area_sqft": null,
+    "lease_start_date": "2024-05-01",
+    "lease_end_date": "2025-04-26",
+    "term_length_months": 12,
+    "base_rent_amount": 2000.0,
+    "rent_frequency": "monthly"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "synth_ontario_011",
+  "source": "synthetic",
+  "slices": {
+    "property_type": "residential",
+    "region": "CA-ON",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 246
+  },
+  "notes": "synthetic; money_style=0 date_style=0 rent_label='Total Rent Per Month' noisy=False",
+  "fields": {
+    "landlord_name": "Chase Turner",
+    "tenant_name": "Kim Hill",
+    "property_address": "6276 Moore Prairie, Leefurt, VT 62904",
+    "property_type": "residential",
+    "premises_area_sqft": null,
+    "lease_start_date": "2024-05-01",
+    "lease_end_date": "2025-04-26",
+    "term_length_months": 12,
+    "base_rent_amount": 2000.0,
+    "rent_frequency": "monthly"
+  }
+}

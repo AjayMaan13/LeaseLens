@@ -1,0 +1,24 @@
+{
+  "doc_id": "synth_ontario_016",
+  "source": "synthetic",
+  "slices": {
+    "property_type": "residential",
+    "region": "CA-ON",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 241
+  },
+  "notes": "synthetic; money_style=1 date_style=2 rent_label='Monthly Rent' noisy=False",
+  "fields": {
+    "landlord_name": "Elizabeth Reilly",
+    "tenant_name": "Micheal Price",
+    "property_address": "43028 Mooney Ville, South Sarah, LA 01980",
+    "property_type": "residential",
+    "premises_area_sqft": null,
+    "lease_start_date": "2024-03-01",
+    "lease_end_date": "2026-02-19",
+    "term_length_months": 24,
+    "base_rent_amount": 1850.0,
+    "rent_frequency": "monthly"
+  }
+}

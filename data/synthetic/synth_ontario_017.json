@@ -1,0 +1,24 @@
+{
+  "doc_id": "synth_ontario_017",
+  "source": "synthetic",
+  "slices": {
+    "property_type": "residential",
+    "region": "CA-ON",
+    "urbanicity": "unknown",
+    "scanned": false,
+    "doc_chars": 243
+  },
+  "notes": "synthetic; money_style=0 date_style=2 rent_label='Total Rent Per Month' noisy=False",
+  "fields": {
+    "landlord_name": "William Davis",
+    "tenant_name": "Carl Jones",
+    "property_address": "2022 Brian Mews, Lake Kayla, MT 92323",
+    "property_type": "residential",
+    "premises_area_sqft": null,
+    "lease_start_date": "2024-05-01",
+    "lease_end_date": "2025-04-26",
+    "term_length_months": 12,
+    "base_rent_amount": 2200.0,
+    "rent_frequency": "monthly"
+  }
+}
